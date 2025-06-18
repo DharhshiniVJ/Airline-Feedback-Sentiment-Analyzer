@@ -1,0 +1,1001 @@
+Passenger_ID,Gender,Travel_Class,Frequent_Flyer,Age,Flight_Status,Flight_Duration_Hrs,Feedback,Service_Area,Sentiment
+2000,Female,Economy,Yes,62.93,On Time,2.8,Very courteous staff and smooth check-in process.,Ground Service,1
+2001,Male,Business,No,51.85,Delayed,8.9,Boarding was chaotic and unorganized.,Boarding,0
+2002,Male,Premium Economy,Yes,53.73,On Time,8.3,Flight was delayed and no proper updates.,Luggage Handling,0
+2003,Male,Business,Yes,26.46,Delayed,9.8,Service was decent but food could be better.,Check-in,0
+2004,Female,Premium Economy,Yes,21.83,Cancelled,7.9,"Nothing special, average service.",In-flight Service,0
+2005,Female,Premium Economy,No,61.98,Cancelled,3.5,Boarding was chaotic and unorganized.,Luggage Handling,0
+2006,Female,Economy,No,33.34,Cancelled,9.5,"Nothing special, average service.",Luggage Handling,0
+2007,Male,Economy,No,34.57,Delayed,10.9,Unhappy with how luggage was handled.,In-flight Service,0
+2008,Male,Business,No,67.49,Delayed,14.7,"Seats were cramped, not comfortable.",In-flight Service,0
+2009,Male,Premium Economy,Yes,21.86,Delayed,1.0,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2010,Male,Premium Economy,Yes,26.85,On Time,1.3,Unhappy with how luggage was handled.,Check-in,0
+2011,Female,Premium Economy,No,37.52,Delayed,9.8,"Nothing special, average service.",Check-in,0
+2012,Male,Premium Economy,No,56.06,On Time,2.7,Everything was perfect!,Check-in,1
+2013,Male,Economy,No,46.45,Cancelled,12.9,Everything was perfect!,Boarding,1
+2014,Female,Business,No,64.7,Cancelled,12.2,Really impressed with the cleanliness and hospitality.,Boarding,1
+2015,Female,Economy,Yes,22.84,Delayed,15.0,Flight was delayed and no proper updates.,Boarding,0
+2016,Male,Economy,Yes,48.89,Delayed,6.8,Really impressed with the cleanliness and hospitality.,Check-in,1
+2017,Female,Premium Economy,Yes,49.91,Cancelled,5.7,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2018,Female,Economy,Yes,43.1,Cancelled,8.8,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2019,Male,Business,No,19.61,Cancelled,9.9,"Nothing special, average service.",Check-in,0
+2020,Female,Economy,Yes,67.01,On Time,1.2,Everything was perfect!,Check-in,1
+2021,Female,Economy,No,26.58,On Time,3.8,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2022,Male,Business,Yes,64.27,Delayed,4.9,"Nothing special, average service.",Check-in,0
+2023,Male,Economy,No,26.17,On Time,12.1,Flight was delayed and no proper updates.,Customer Support,0
+2024,Female,Economy,No,23.27,Cancelled,5.3,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2025,Male,Business,No,28.69,On Time,8.1,Flight was delayed and no proper updates.,In-flight Service,0
+2026,Male,Economy,No,27.88,Cancelled,5.5,Boarding was chaotic and unorganized.,In-flight Service,0
+2027,Male,Business,No,54.25,Delayed,1.1,"Seats were cramped, not comfortable.",Luggage Handling,0
+2028,Female,Economy,No,55.55,On Time,10.6,"Seats were cramped, not comfortable.",In-flight Service,0
+2029,Female,Economy,Yes,55.96,Cancelled,5.8,Service was decent but food could be better.,Luggage Handling,0
+2030,Female,Economy,Yes,31.79,Cancelled,11.1,"Seats were cramped, not comfortable.",Customer Support,0
+2031,Female,Economy,Yes,32.64,Delayed,9.6,Everything was perfect!,In-flight Service,1
+2032,Female,Premium Economy,No,30.35,On Time,1.4,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2033,Female,Economy,No,20.58,On Time,3.5,Everything was perfect!,Check-in,1
+2034,Male,Economy,No,47.73,Delayed,5.6,"Nothing special, average service.",Luggage Handling,0
+2035,Female,Business,Yes,61.67,Cancelled,5.7,"Nothing special, average service.",Customer Support,0
+2036,Female,Economy,No,25.99,On Time,10.4,"Nothing special, average service.",Check-in,0
+2037,Female,Economy,Yes,36.76,Delayed,13.8,Unhappy with how luggage was handled.,Customer Support,0
+2038,Female,Economy,Yes,40.24,On Time,12.2,"Seats were cramped, not comfortable.",Boarding,0
+2039,Female,Economy,No,33.32,Delayed,10.0,Very courteous staff and smooth check-in process.,Check-in,1
+2040,Female,Business,No,52.43,On Time,7.7,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2041,Male,Premium Economy,No,49.21,Cancelled,9.8,Everything was perfect!,Boarding,1
+2042,Male,Business,Yes,28.38,Delayed,13.5,Boarding was chaotic and unorganized.,In-flight Service,0
+2043,Male,Premium Economy,No,19.34,Delayed,8.5,Very courteous staff and smooth check-in process.,In-flight Service,1
+2044,Male,Business,No,26.88,On Time,5.7,Flight was delayed and no proper updates.,Check-in,0
+2045,Male,Premium Economy,No,33.17,Cancelled,12.0,Flight was delayed and no proper updates.,Customer Support,0
+2046,Male,Economy,Yes,22.26,Cancelled,6.8,Everything was perfect!,Ground Service,1
+2047,Male,Premium Economy,No,61.88,Delayed,11.4,Everything was perfect!,Check-in,1
+2048,Female,Business,Yes,34.03,Cancelled,12.7,"Nothing special, average service.",Luggage Handling,0
+2049,Male,Economy,No,38.67,Delayed,5.2,Unhappy with how luggage was handled.,In-flight Service,0
+2050,Male,Business,Yes,43.43,Delayed,11.1,Flight was delayed and no proper updates.,Boarding,0
+2051,Male,Business,No,52.37,Delayed,5.4,Unhappy with how luggage was handled.,In-flight Service,0
+2052,Male,Premium Economy,No,22.74,On Time,8.5,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2053,Female,Premium Economy,Yes,46.29,On Time,3.9,Everything was perfect!,Customer Support,1
+2054,Female,Business,No,27.61,Delayed,10.6,Service was decent but food could be better.,Ground Service,0
+2055,Female,Economy,Yes,64.05,Cancelled,12.2,Everything was perfect!,Luggage Handling,1
+2056,Male,Premium Economy,Yes,37.21,Cancelled,13.4,"Seats were cramped, not comfortable.",Check-in,0
+2057,Female,Premium Economy,No,41.18,Cancelled,6.0,Service was decent but food could be better.,In-flight Service,0
+2058,Male,Business,Yes,31.69,Delayed,14.6,"Seats were cramped, not comfortable.",Check-in,0
+2059,Male,Premium Economy,No,42.18,Cancelled,4.9,"Seats were cramped, not comfortable.",Customer Support,0
+2060,Female,Business,No,29.76,Delayed,1.4,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2061,Female,Economy,No,31.97,Cancelled,14.8,Really impressed with the cleanliness and hospitality.,Boarding,1
+2062,Female,Economy,Yes,21.21,On Time,9.8,Unhappy with how luggage was handled.,Boarding,0
+2063,Female,Premium Economy,No,57.12,On Time,12.8,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2064,Female,Economy,Yes,52.71,Delayed,9.0,Unhappy with how luggage was handled.,Luggage Handling,0
+2065,Female,Economy,Yes,22.46,Delayed,6.5,Unhappy with how luggage was handled.,Check-in,0
+2066,Male,Premium Economy,No,35.88,Delayed,9.3,"Fantastic experience, loved the in-flight entertainment!",Luggage Handling,1
+2067,Male,Premium Economy,Yes,46.16,Cancelled,13.1,"Seats were cramped, not comfortable.",Boarding,0
+2068,Male,Economy,Yes,68.48,Cancelled,11.5,Unhappy with how luggage was handled.,Luggage Handling,0
+2069,Male,Business,No,48.67,On Time,10.9,"Nothing special, average service.",Boarding,0
+2070,Male,Premium Economy,Yes,46.79,Cancelled,5.4,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2071,Female,Premium Economy,No,61.72,On Time,1.4,"Seats were cramped, not comfortable.",Check-in,0
+2072,Female,Premium Economy,No,60.56,On Time,6.8,Service was decent but food could be better.,Check-in,0
+2073,Male,Economy,Yes,39.77,On Time,8.0,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2074,Female,Business,Yes,45.85,Cancelled,4.3,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2075,Male,Business,No,63.08,Delayed,7.3,Unhappy with how luggage was handled.,Luggage Handling,0
+2076,Female,Premium Economy,Yes,42.69,On Time,14.3,Unhappy with how luggage was handled.,Boarding,0
+2077,Male,Business,Yes,63.85,On Time,4.0,Boarding was chaotic and unorganized.,Check-in,0
+2078,Male,Business,Yes,42.77,On Time,5.2,Service was decent but food could be better.,Ground Service,0
+2079,Male,Economy,No,22.11,On Time,2.6,Boarding was chaotic and unorganized.,Check-in,0
+2080,Female,Premium Economy,No,64.94,Delayed,12.0,"Seats were cramped, not comfortable.",Boarding,0
+2081,Male,Economy,Yes,55.14,Cancelled,11.9,Flight was delayed and no proper updates.,Customer Support,0
+2082,Female,Premium Economy,Yes,44.11,Delayed,13.8,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2083,Female,Premium Economy,Yes,64.82,Delayed,7.2,Everything was perfect!,Luggage Handling,1
+2084,Male,Premium Economy,Yes,59.62,Cancelled,1.3,Boarding was chaotic and unorganized.,Boarding,0
+2085,Male,Economy,No,53.23,Delayed,7.8,Boarding was chaotic and unorganized.,Customer Support,0
+2086,Female,Premium Economy,Yes,50.25,Cancelled,8.0,Flight was delayed and no proper updates.,Luggage Handling,0
+2087,Female,Premium Economy,No,24.25,Cancelled,3.7,"Seats were cramped, not comfortable.",Boarding,0
+2088,Male,Premium Economy,No,57.37,Delayed,13.9,"Nothing special, average service.",Luggage Handling,0
+2089,Male,Economy,Yes,26.99,Delayed,11.3,Unhappy with how luggage was handled.,Luggage Handling,0
+2090,Male,Business,No,69.19,On Time,8.3,Service was decent but food could be better.,Boarding,0
+2091,Female,Economy,No,68.55,Delayed,11.9,"Nothing special, average service.",In-flight Service,0
+2092,Female,Business,No,60.04,Cancelled,3.0,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2093,Male,Economy,Yes,24.56,On Time,13.2,"Nothing special, average service.",Ground Service,0
+2094,Male,Economy,Yes,40.02,On Time,12.5,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2095,Male,Business,No,69.39,Delayed,14.1,Service was decent but food could be better.,Boarding,0
+2096,Female,Business,Yes,40.64,Delayed,10.5,"Seats were cramped, not comfortable.",In-flight Service,0
+2097,Female,Premium Economy,No,69.86,On Time,2.9,Service was decent but food could be better.,Boarding,0
+2098,Female,Premium Economy,Yes,50.62,On Time,11.1,Boarding was chaotic and unorganized.,Ground Service,0
+2099,Female,Premium Economy,No,61.37,On Time,7.4,"Nothing special, average service.",Check-in,0
+2100,Male,Economy,No,31.41,On Time,11.0,Boarding was chaotic and unorganized.,Customer Support,0
+2101,Female,Economy,No,65.36,On Time,8.3,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2102,Female,Premium Economy,Yes,65.54,On Time,1.1,Service was decent but food could be better.,Customer Support,0
+2103,Female,Premium Economy,Yes,21.48,Cancelled,14.1,"Nothing special, average service.",Ground Service,0
+2104,Male,Business,No,38.18,Cancelled,10.6,Unhappy with how luggage was handled.,In-flight Service,0
+2105,Female,Business,No,38.66,Delayed,9.3,Flight was delayed and no proper updates.,Luggage Handling,0
+2106,Male,Business,No,34.96,Delayed,2.2,"Nothing special, average service.",Ground Service,0
+2107,Male,Business,No,32.36,Delayed,7.5,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2108,Male,Premium Economy,Yes,41.82,Delayed,1.6,Boarding was chaotic and unorganized.,Customer Support,0
+2109,Female,Premium Economy,No,63.42,Cancelled,8.3,"Seats were cramped, not comfortable.",Check-in,0
+2110,Female,Premium Economy,Yes,58.9,On Time,10.2,Flight was delayed and no proper updates.,Luggage Handling,0
+2111,Male,Economy,No,50.4,On Time,5.4,Flight was delayed and no proper updates.,Boarding,0
+2112,Female,Premium Economy,Yes,45.17,On Time,9.1,Service was decent but food could be better.,Check-in,0
+2113,Male,Economy,No,39.82,Cancelled,5.4,Service was decent but food could be better.,In-flight Service,0
+2114,Female,Economy,Yes,39.55,Cancelled,13.5,"Seats were cramped, not comfortable.",Customer Support,0
+2115,Female,Business,No,25.71,Delayed,5.5,Boarding was chaotic and unorganized.,In-flight Service,0
+2116,Male,Premium Economy,No,48.57,Cancelled,3.7,"Seats were cramped, not comfortable.",Check-in,0
+2117,Female,Business,No,57.44,On Time,4.9,"Seats were cramped, not comfortable.",Check-in,0
+2118,Female,Premium Economy,Yes,66.86,Delayed,5.5,"Seats were cramped, not comfortable.",Customer Support,0
+2119,Male,Business,Yes,66.1,On Time,7.2,Unhappy with how luggage was handled.,Ground Service,0
+2120,Female,Business,Yes,47.26,Cancelled,2.6,Unhappy with how luggage was handled.,Ground Service,0
+2121,Female,Business,No,23.25,Delayed,3.1,"Nothing special, average service.",In-flight Service,0
+2122,Female,Business,Yes,32.88,On Time,4.8,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2123,Female,Premium Economy,No,45.85,Delayed,1.2,Flight was delayed and no proper updates.,Ground Service,0
+2124,Male,Premium Economy,Yes,35.88,On Time,9.7,"Seats were cramped, not comfortable.",In-flight Service,0
+2125,Male,Economy,No,39.37,On Time,8.2,Service was decent but food could be better.,Ground Service,0
+2126,Male,Business,Yes,37.92,On Time,3.9,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2127,Female,Business,No,43.25,Cancelled,5.9,Flight was delayed and no proper updates.,Ground Service,0
+2128,Female,Economy,No,49.67,Cancelled,5.5,Boarding was chaotic and unorganized.,Check-in,0
+2129,Female,Economy,No,19.95,Cancelled,3.0,Very courteous staff and smooth check-in process.,Ground Service,1
+2130,Male,Business,No,32.32,Cancelled,10.9,"Nothing special, average service.",Boarding,0
+2131,Male,Economy,Yes,25.48,Cancelled,5.0,Service was decent but food could be better.,Ground Service,0
+2132,Female,Premium Economy,Yes,49.65,Delayed,4.4,Everything was perfect!,In-flight Service,1
+2133,Female,Economy,Yes,54.07,Cancelled,2.0,"Seats were cramped, not comfortable.",In-flight Service,0
+2134,Male,Business,Yes,20.02,Cancelled,9.6,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2135,Male,Premium Economy,No,64.26,Delayed,5.7,Everything was perfect!,Ground Service,1
+2136,Male,Premium Economy,No,35.24,Cancelled,7.2,Very courteous staff and smooth check-in process.,Check-in,1
+2137,Female,Economy,Yes,30.35,Cancelled,2.8,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2138,Female,Premium Economy,Yes,56.78,Cancelled,7.6,"Seats were cramped, not comfortable.",Check-in,0
+2139,Male,Economy,Yes,65.88,Delayed,10.5,Boarding was chaotic and unorganized.,Luggage Handling,0
+2140,Male,Business,Yes,64.65,Delayed,2.5,Very courteous staff and smooth check-in process.,In-flight Service,1
+2141,Female,Economy,No,19.05,Delayed,1.8,"Seats were cramped, not comfortable.",Ground Service,0
+2142,Male,Premium Economy,No,60.5,On Time,7.0,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2143,Female,Premium Economy,Yes,33.76,On Time,3.5,Really impressed with the cleanliness and hospitality.,Boarding,1
+2144,Male,Premium Economy,No,32.58,On Time,9.3,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2145,Male,Business,No,43.56,Delayed,9.3,"Seats were cramped, not comfortable.",Luggage Handling,0
+2146,Female,Business,No,54.2,Cancelled,12.7,Very courteous staff and smooth check-in process.,Check-in,1
+2147,Female,Premium Economy,No,23.11,Cancelled,10.8,"Nothing special, average service.",In-flight Service,0
+2148,Male,Economy,No,63.18,On Time,9.6,"Seats were cramped, not comfortable.",In-flight Service,0
+2149,Male,Economy,Yes,24.99,On Time,5.4,Boarding was chaotic and unorganized.,Check-in,0
+2150,Female,Economy,Yes,68.66,Cancelled,12.4,Boarding was chaotic and unorganized.,Check-in,0
+2151,Female,Premium Economy,No,41.04,Delayed,11.0,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2152,Male,Business,Yes,60.94,On Time,10.4,Boarding was chaotic and unorganized.,Check-in,0
+2153,Female,Economy,Yes,32.01,Cancelled,8.5,Flight was delayed and no proper updates.,Ground Service,0
+2154,Male,Premium Economy,Yes,39.67,On Time,14.6,"Nothing special, average service.",Customer Support,0
+2155,Male,Premium Economy,Yes,51.57,On Time,11.6,Boarding was chaotic and unorganized.,Ground Service,0
+2156,Male,Premium Economy,Yes,27.77,Cancelled,7.5,"Seats were cramped, not comfortable.",Customer Support,0
+2157,Female,Economy,No,28.99,Cancelled,2.8,Everything was perfect!,Luggage Handling,1
+2158,Male,Business,No,60.85,On Time,12.4,Unhappy with how luggage was handled.,Ground Service,0
+2159,Male,Economy,No,56.53,Cancelled,13.9,Service was decent but food could be better.,Boarding,0
+2160,Male,Premium Economy,Yes,57.49,Delayed,7.6,Unhappy with how luggage was handled.,Luggage Handling,0
+2161,Female,Economy,No,63.09,Delayed,7.4,"Nothing special, average service.",Ground Service,0
+2162,Male,Business,Yes,60.69,Cancelled,10.6,Service was decent but food could be better.,Check-in,0
+2163,Female,Premium Economy,Yes,44.79,On Time,10.9,Unhappy with how luggage was handled.,In-flight Service,0
+2164,Female,Business,No,26.27,Cancelled,7.5,Really impressed with the cleanliness and hospitality.,Boarding,1
+2165,Male,Economy,No,34.18,Cancelled,4.2,Very courteous staff and smooth check-in process.,Ground Service,1
+2166,Male,Premium Economy,Yes,44.35,Cancelled,4.1,Very courteous staff and smooth check-in process.,Customer Support,1
+2167,Female,Premium Economy,Yes,25.05,Delayed,13.1,Really impressed with the cleanliness and hospitality.,Check-in,1
+2168,Male,Economy,Yes,62.27,On Time,9.6,Very courteous staff and smooth check-in process.,Customer Support,1
+2169,Male,Economy,No,63.73,Cancelled,13.8,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2170,Female,Economy,No,19.51,Cancelled,6.5,Service was decent but food could be better.,Boarding,0
+2171,Female,Economy,No,28.02,On Time,10.8,Unhappy with how luggage was handled.,Check-in,0
+2172,Male,Economy,Yes,61.31,On Time,10.3,"Seats were cramped, not comfortable.",Customer Support,0
+2173,Female,Economy,No,61.52,On Time,12.0,Service was decent but food could be better.,Check-in,0
+2174,Female,Economy,Yes,30.97,Delayed,13.4,Very courteous staff and smooth check-in process.,In-flight Service,1
+2175,Male,Business,No,41.74,On Time,7.3,Really impressed with the cleanliness and hospitality.,Check-in,1
+2176,Male,Economy,No,65.74,On Time,1.4,"Seats were cramped, not comfortable.",Luggage Handling,0
+2177,Male,Premium Economy,No,54.64,Cancelled,7.7,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2178,Male,Business,No,32.25,Cancelled,5.9,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2179,Male,Premium Economy,Yes,60.82,Delayed,7.5,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2180,Female,Business,Yes,44.27,Delayed,3.4,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2181,Female,Business,Yes,51.04,Cancelled,11.8,Boarding was chaotic and unorganized.,Check-in,0
+2182,Female,Economy,Yes,24.44,Delayed,9.5,Flight was delayed and no proper updates.,Boarding,0
+2183,Male,Business,No,19.59,On Time,2.8,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2184,Male,Economy,Yes,37.37,Delayed,2.4,"Seats were cramped, not comfortable.",Check-in,0
+2185,Male,Economy,No,48.89,Delayed,12.4,Really impressed with the cleanliness and hospitality.,Check-in,1
+2186,Female,Business,Yes,27.23,Delayed,12.2,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2187,Male,Business,No,63.27,Cancelled,5.6,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2188,Male,Premium Economy,Yes,48.52,Cancelled,10.1,Unhappy with how luggage was handled.,Boarding,0
+2189,Male,Premium Economy,No,36.19,Cancelled,12.1,Unhappy with how luggage was handled.,In-flight Service,0
+2190,Male,Business,No,26.5,Delayed,8.5,Unhappy with how luggage was handled.,Luggage Handling,0
+2191,Male,Premium Economy,No,64.51,Cancelled,6.6,Service was decent but food could be better.,Boarding,0
+2192,Male,Economy,No,56.95,Cancelled,6.8,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2193,Female,Economy,Yes,53.82,On Time,9.7,Very courteous staff and smooth check-in process.,Check-in,1
+2194,Male,Economy,Yes,32.82,On Time,8.7,Service was decent but food could be better.,In-flight Service,0
+2195,Female,Business,No,38.1,Delayed,14.6,Flight was delayed and no proper updates.,In-flight Service,0
+2196,Female,Premium Economy,Yes,26.47,On Time,6.4,Everything was perfect!,Boarding,1
+2197,Male,Business,No,47.76,Cancelled,5.8,"Nothing special, average service.",Ground Service,0
+2198,Female,Business,No,68.18,Delayed,12.4,Boarding was chaotic and unorganized.,Check-in,0
+2199,Female,Economy,Yes,62.57,Delayed,9.3,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2200,Female,Business,No,51.66,Delayed,12.0,Very courteous staff and smooth check-in process.,Customer Support,1
+2201,Female,Economy,Yes,53.24,Delayed,7.1,Boarding was chaotic and unorganized.,Ground Service,0
+2202,Female,Premium Economy,Yes,31.99,Cancelled,12.0,Flight was delayed and no proper updates.,Luggage Handling,0
+2203,Male,Premium Economy,No,39.29,On Time,8.6,Flight was delayed and no proper updates.,Check-in,0
+2204,Male,Premium Economy,Yes,19.04,Cancelled,4.3,Flight was delayed and no proper updates.,Ground Service,0
+2205,Male,Economy,Yes,58.58,Cancelled,10.3,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2206,Male,Premium Economy,No,57.91,Delayed,2.1,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2207,Male,Economy,Yes,18.46,Cancelled,14.0,"Nothing special, average service.",Ground Service,0
+2208,Male,Economy,No,65.4,On Time,9.0,Everything was perfect!,Customer Support,1
+2209,Female,Premium Economy,No,51.66,On Time,7.8,Flight was delayed and no proper updates.,Check-in,0
+2210,Male,Economy,Yes,49.26,Delayed,9.3,Unhappy with how luggage was handled.,Check-in,0
+2211,Female,Premium Economy,No,18.44,On Time,7.5,Very courteous staff and smooth check-in process.,Boarding,1
+2212,Male,Business,No,31.12,Delayed,8.8,"Seats were cramped, not comfortable.",In-flight Service,0
+2213,Male,Premium Economy,No,59.86,On Time,12.5,Unhappy with how luggage was handled.,Luggage Handling,0
+2214,Female,Business,Yes,33.88,Delayed,3.5,Very courteous staff and smooth check-in process.,Boarding,1
+2215,Female,Business,Yes,68.29,On Time,14.4,"Seats were cramped, not comfortable.",In-flight Service,0
+2216,Female,Business,No,51.42,Delayed,2.0,Really impressed with the cleanliness and hospitality.,Check-in,1
+2217,Female,Economy,No,40.04,Delayed,2.5,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2218,Male,Economy,No,37.58,Delayed,12.4,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2219,Male,Economy,Yes,36.13,Delayed,11.8,"Nothing special, average service.",Check-in,0
+2220,Female,Premium Economy,Yes,31.1,On Time,6.3,Very courteous staff and smooth check-in process.,Customer Support,1
+2221,Female,Business,Yes,42.27,Cancelled,7.9,Everything was perfect!,Luggage Handling,1
+2222,Female,Premium Economy,Yes,53.21,Delayed,10.2,"Nothing special, average service.",Luggage Handling,0
+2223,Female,Economy,Yes,60.86,Cancelled,2.3,Flight was delayed and no proper updates.,Boarding,0
+2224,Male,Business,Yes,38.65,On Time,12.4,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2225,Female,Premium Economy,Yes,23.32,On Time,13.4,Boarding was chaotic and unorganized.,Boarding,0
+2226,Female,Business,Yes,44.6,On Time,13.6,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2227,Female,Business,Yes,52.44,Delayed,9.9,Flight was delayed and no proper updates.,In-flight Service,0
+2228,Male,Premium Economy,No,61.85,On Time,1.0,Boarding was chaotic and unorganized.,Luggage Handling,0
+2229,Female,Business,Yes,37.46,On Time,3.1,Flight was delayed and no proper updates.,Luggage Handling,0
+2230,Male,Premium Economy,Yes,51.66,On Time,3.1,"Fantastic experience, loved the in-flight entertainment!",Luggage Handling,1
+2231,Male,Premium Economy,Yes,49.67,On Time,8.4,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2232,Female,Premium Economy,Yes,33.52,Delayed,6.5,Everything was perfect!,Luggage Handling,1
+2233,Female,Business,No,23.62,Delayed,9.1,Flight was delayed and no proper updates.,Luggage Handling,0
+2234,Male,Premium Economy,Yes,21.32,On Time,3.7,Unhappy with how luggage was handled.,Check-in,0
+2235,Male,Economy,Yes,69.39,Cancelled,10.5,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2236,Female,Economy,Yes,51.31,On Time,5.4,Everything was perfect!,Luggage Handling,1
+2237,Male,Premium Economy,Yes,62.8,Cancelled,9.0,Flight was delayed and no proper updates.,Luggage Handling,0
+2238,Female,Economy,Yes,31.58,On Time,13.8,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2239,Female,Economy,No,54.98,Delayed,5.3,Flight was delayed and no proper updates.,Check-in,0
+2240,Male,Economy,No,64.4,Cancelled,14.2,Flight was delayed and no proper updates.,Customer Support,0
+2241,Female,Premium Economy,No,33.54,Cancelled,7.1,Flight was delayed and no proper updates.,Check-in,0
+2242,Female,Economy,No,25.8,Delayed,14.8,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2243,Female,Premium Economy,Yes,57.8,Cancelled,5.8,Service was decent but food could be better.,In-flight Service,0
+2244,Male,Economy,Yes,64.78,Cancelled,2.3,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2245,Female,Business,Yes,59.88,On Time,1.1,"Nothing special, average service.",Customer Support,0
+2246,Male,Economy,Yes,59.72,Delayed,14.8,Boarding was chaotic and unorganized.,Check-in,0
+2247,Male,Business,Yes,49.2,Delayed,6.7,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2248,Female,Business,Yes,52.35,Delayed,2.8,Flight was delayed and no proper updates.,Boarding,0
+2249,Male,Premium Economy,Yes,53.4,Cancelled,5.1,Flight was delayed and no proper updates.,Ground Service,0
+2250,Male,Premium Economy,Yes,55.51,On Time,6.2,"Fantastic experience, loved the in-flight entertainment!",Luggage Handling,1
+2251,Female,Premium Economy,Yes,52.08,Cancelled,8.7,Flight was delayed and no proper updates.,Ground Service,0
+2252,Male,Premium Economy,Yes,69.87,Delayed,1.7,Very courteous staff and smooth check-in process.,Check-in,1
+2253,Male,Business,Yes,31.49,Delayed,10.8,Everything was perfect!,Check-in,1
+2254,Female,Business,Yes,39.77,Delayed,12.5,"Nothing special, average service.",Ground Service,0
+2255,Female,Premium Economy,No,38.19,Delayed,6.0,Boarding was chaotic and unorganized.,Customer Support,0
+2256,Male,Business,No,19.84,Delayed,13.1,Service was decent but food could be better.,Luggage Handling,0
+2257,Male,Premium Economy,Yes,54.82,Delayed,13.1,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2258,Male,Economy,Yes,47.75,Cancelled,4.3,"Nothing special, average service.",Ground Service,0
+2259,Female,Premium Economy,Yes,27.88,On Time,10.8,Boarding was chaotic and unorganized.,Luggage Handling,0
+2260,Female,Economy,No,55.78,On Time,6.5,Flight was delayed and no proper updates.,Check-in,0
+2261,Female,Economy,Yes,29.56,On Time,5.5,Flight was delayed and no proper updates.,Customer Support,0
+2262,Male,Economy,No,45.8,Cancelled,6.4,"Nothing special, average service.",Boarding,0
+2263,Male,Business,No,58.81,Cancelled,6.3,Everything was perfect!,Check-in,1
+2264,Female,Premium Economy,Yes,65.14,On Time,8.6,"Seats were cramped, not comfortable.",Boarding,0
+2265,Female,Business,Yes,52.94,Delayed,10.3,Really impressed with the cleanliness and hospitality.,Boarding,1
+2266,Female,Premium Economy,No,44.38,Delayed,7.6,Flight was delayed and no proper updates.,Boarding,0
+2267,Female,Economy,No,61.96,On Time,3.6,"Nothing special, average service.",Luggage Handling,0
+2268,Female,Economy,No,61.71,Cancelled,6.4,Unhappy with how luggage was handled.,Boarding,0
+2269,Male,Premium Economy,Yes,63.58,Delayed,13.9,Flight was delayed and no proper updates.,In-flight Service,0
+2270,Female,Premium Economy,Yes,27.42,Cancelled,12.8,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2271,Male,Premium Economy,No,23.08,Delayed,3.2,Flight was delayed and no proper updates.,In-flight Service,0
+2272,Female,Economy,Yes,24.65,Cancelled,15.0,Very courteous staff and smooth check-in process.,Ground Service,1
+2273,Female,Premium Economy,Yes,31.45,Cancelled,10.4,Very courteous staff and smooth check-in process.,Boarding,1
+2274,Male,Economy,No,60.03,Delayed,2.9,Everything was perfect!,Ground Service,1
+2275,Male,Premium Economy,No,57.67,On Time,2.0,Unhappy with how luggage was handled.,Boarding,0
+2276,Male,Premium Economy,Yes,27.52,Delayed,1.2,Everything was perfect!,Luggage Handling,1
+2277,Female,Premium Economy,No,53.35,On Time,11.1,"Nothing special, average service.",Ground Service,0
+2278,Male,Business,Yes,35.45,On Time,7.8,Service was decent but food could be better.,Luggage Handling,0
+2279,Female,Premium Economy,No,22.64,Cancelled,7.1,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2280,Female,Economy,Yes,36.47,Delayed,14.9,Boarding was chaotic and unorganized.,Luggage Handling,0
+2281,Male,Economy,Yes,56.7,Delayed,2.2,Very courteous staff and smooth check-in process.,Boarding,1
+2282,Female,Business,No,33.97,Delayed,10.0,Service was decent but food could be better.,Ground Service,0
+2283,Male,Economy,Yes,58.98,Cancelled,6.8,Unhappy with how luggage was handled.,Boarding,0
+2284,Male,Business,Yes,35.23,On Time,7.4,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2285,Female,Premium Economy,No,31.55,On Time,12.0,Everything was perfect!,Customer Support,1
+2286,Female,Business,No,33.29,On Time,9.5,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2287,Male,Business,No,62.26,On Time,7.0,Flight was delayed and no proper updates.,Customer Support,0
+2288,Male,Premium Economy,No,42.47,On Time,3.5,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2289,Male,Premium Economy,No,63.05,On Time,8.1,Everything was perfect!,Customer Support,1
+2290,Male,Economy,No,48.35,Delayed,8.7,Very courteous staff and smooth check-in process.,Check-in,1
+2291,Female,Premium Economy,Yes,67.1,On Time,7.3,Service was decent but food could be better.,Customer Support,0
+2292,Female,Business,No,21.7,Delayed,6.0,Unhappy with how luggage was handled.,Ground Service,0
+2293,Male,Business,Yes,64.25,Cancelled,3.6,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2294,Female,Premium Economy,Yes,44.02,Delayed,9.5,Flight was delayed and no proper updates.,Check-in,0
+2295,Female,Premium Economy,No,63.11,Delayed,9.1,Everything was perfect!,Check-in,1
+2296,Male,Business,No,37.85,Cancelled,12.9,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2297,Male,Economy,No,33.51,Delayed,4.3,"Nothing special, average service.",Customer Support,0
+2298,Male,Premium Economy,Yes,20.81,On Time,8.0,Service was decent but food could be better.,Ground Service,0
+2299,Female,Business,Yes,62.42,On Time,6.8,Very courteous staff and smooth check-in process.,Ground Service,1
+2300,Female,Business,No,25.14,Cancelled,8.6,Really impressed with the cleanliness and hospitality.,Check-in,1
+2301,Female,Business,Yes,28.42,Delayed,6.1,Very courteous staff and smooth check-in process.,Check-in,1
+2302,Female,Business,No,39.28,Cancelled,14.7,Unhappy with how luggage was handled.,In-flight Service,0
+2303,Female,Business,No,47.61,Cancelled,9.0,"Seats were cramped, not comfortable.",Ground Service,0
+2304,Male,Business,No,65.14,On Time,10.9,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2305,Male,Premium Economy,Yes,41.79,On Time,2.6,Unhappy with how luggage was handled.,Boarding,0
+2306,Male,Premium Economy,No,34.45,On Time,7.7,Everything was perfect!,In-flight Service,1
+2307,Female,Premium Economy,Yes,55.21,On Time,10.7,"Nothing special, average service.",Luggage Handling,0
+2308,Female,Premium Economy,Yes,58.5,Cancelled,3.0,Service was decent but food could be better.,Customer Support,0
+2309,Female,Premium Economy,No,43.35,Delayed,11.2,Boarding was chaotic and unorganized.,Check-in,0
+2310,Female,Economy,No,50.81,On Time,14.8,Unhappy with how luggage was handled.,In-flight Service,0
+2311,Male,Economy,No,27.19,Delayed,14.8,Very courteous staff and smooth check-in process.,Ground Service,1
+2312,Male,Business,No,50.99,Cancelled,11.9,Boarding was chaotic and unorganized.,In-flight Service,0
+2313,Male,Premium Economy,No,18.25,On Time,7.5,"Nothing special, average service.",Ground Service,0
+2314,Female,Economy,Yes,32.22,On Time,2.1,Really impressed with the cleanliness and hospitality.,Boarding,1
+2315,Female,Economy,No,57.58,On Time,13.5,Unhappy with how luggage was handled.,In-flight Service,0
+2316,Male,Economy,No,26.77,Delayed,2.2,Very courteous staff and smooth check-in process.,Check-in,1
+2317,Female,Business,No,57.75,Cancelled,7.6,"Nothing special, average service.",Luggage Handling,0
+2318,Male,Economy,Yes,43.46,On Time,11.4,Really impressed with the cleanliness and hospitality.,Boarding,1
+2319,Female,Business,No,57.71,On Time,14.4,"Nothing special, average service.",Boarding,0
+2320,Female,Business,No,22.58,On Time,2.1,Flight was delayed and no proper updates.,Check-in,0
+2321,Female,Business,Yes,49.95,Delayed,9.9,"Seats were cramped, not comfortable.",Ground Service,0
+2322,Female,Economy,No,50.94,On Time,12.2,"Seats were cramped, not comfortable.",In-flight Service,0
+2323,Female,Premium Economy,Yes,38.98,Cancelled,5.4,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2324,Male,Business,No,68.2,On Time,1.7,Flight was delayed and no proper updates.,Check-in,0
+2325,Female,Economy,No,37.93,Delayed,5.8,Very courteous staff and smooth check-in process.,In-flight Service,1
+2326,Male,Premium Economy,Yes,19.96,Cancelled,11.9,Flight was delayed and no proper updates.,Check-in,0
+2327,Female,Economy,No,28.37,On Time,7.6,Everything was perfect!,Luggage Handling,1
+2328,Female,Business,No,37.4,Delayed,8.2,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2329,Female,Business,Yes,18.73,Cancelled,7.6,Service was decent but food could be better.,Luggage Handling,0
+2330,Female,Business,Yes,34.76,Delayed,11.3,Very courteous staff and smooth check-in process.,Boarding,1
+2331,Male,Economy,Yes,61.33,On Time,6.9,Everything was perfect!,Luggage Handling,1
+2332,Female,Premium Economy,No,27.91,Delayed,14.4,Really impressed with the cleanliness and hospitality.,Boarding,1
+2333,Male,Premium Economy,No,53.19,Cancelled,12.2,Service was decent but food could be better.,Boarding,0
+2334,Female,Business,No,50.59,Cancelled,5.0,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2335,Female,Economy,No,30.94,On Time,1.5,Very courteous staff and smooth check-in process.,In-flight Service,1
+2336,Male,Premium Economy,Yes,54.06,Delayed,13.9,"Seats were cramped, not comfortable.",In-flight Service,0
+2337,Female,Economy,Yes,35.91,Delayed,11.5,"Seats were cramped, not comfortable.",Ground Service,0
+2338,Male,Business,No,24.7,Delayed,11.2,Service was decent but food could be better.,Customer Support,0
+2339,Male,Premium Economy,No,37.94,Delayed,8.9,Everything was perfect!,In-flight Service,1
+2340,Female,Premium Economy,No,48.61,Delayed,1.9,Very courteous staff and smooth check-in process.,In-flight Service,1
+2341,Male,Economy,Yes,26.69,Delayed,7.6,"Nothing special, average service.",Customer Support,0
+2342,Male,Business,Yes,60.84,On Time,3.4,Very courteous staff and smooth check-in process.,Check-in,1
+2343,Male,Premium Economy,Yes,33.51,Delayed,1.7,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2344,Male,Business,Yes,33.12,Delayed,14.9,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2345,Female,Premium Economy,No,55.85,Cancelled,12.3,"Seats were cramped, not comfortable.",In-flight Service,0
+2346,Female,Business,Yes,49.01,Delayed,9.7,"Seats were cramped, not comfortable.",Luggage Handling,0
+2347,Male,Business,No,35.57,Delayed,5.0,Service was decent but food could be better.,Boarding,0
+2348,Female,Premium Economy,Yes,64.17,On Time,2.2,Everything was perfect!,Ground Service,1
+2349,Male,Economy,Yes,69.76,On Time,8.1,Really impressed with the cleanliness and hospitality.,Check-in,1
+2350,Female,Premium Economy,Yes,35.82,On Time,12.9,"Seats were cramped, not comfortable.",In-flight Service,0
+2351,Female,Premium Economy,Yes,64.87,Cancelled,4.9,Everything was perfect!,Luggage Handling,1
+2352,Female,Business,Yes,36.68,Cancelled,2.9,Boarding was chaotic and unorganized.,Ground Service,0
+2353,Male,Business,Yes,27.8,Delayed,4.9,Very courteous staff and smooth check-in process.,Boarding,1
+2354,Female,Business,Yes,67.3,Delayed,13.0,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2355,Male,Economy,No,65.75,On Time,1.2,Everything was perfect!,In-flight Service,1
+2356,Female,Economy,Yes,38.98,Cancelled,2.6,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2357,Male,Premium Economy,Yes,29.88,Cancelled,3.4,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2358,Male,Business,No,55.81,Delayed,9.3,Everything was perfect!,Customer Support,1
+2359,Male,Premium Economy,Yes,24.82,On Time,3.1,Boarding was chaotic and unorganized.,Boarding,0
+2360,Female,Economy,No,56.17,Delayed,7.3,Very courteous staff and smooth check-in process.,Check-in,1
+2361,Male,Business,No,48.66,On Time,12.3,Flight was delayed and no proper updates.,Customer Support,0
+2362,Female,Business,No,26.79,On Time,4.7,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2363,Female,Economy,Yes,37.06,On Time,10.8,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2364,Male,Business,No,51.83,Delayed,7.8,Boarding was chaotic and unorganized.,Ground Service,0
+2365,Female,Economy,Yes,19.94,Delayed,12.2,Unhappy with how luggage was handled.,Ground Service,0
+2366,Male,Business,Yes,63.58,Delayed,13.1,"Seats were cramped, not comfortable.",In-flight Service,0
+2367,Female,Economy,Yes,31.3,Delayed,5.8,"Seats were cramped, not comfortable.",Boarding,0
+2368,Male,Premium Economy,No,45.81,On Time,2.2,Unhappy with how luggage was handled.,In-flight Service,0
+2369,Female,Business,No,20.53,Cancelled,3.0,Boarding was chaotic and unorganized.,Luggage Handling,0
+2370,Female,Economy,Yes,69.72,Delayed,14.1,"Nothing special, average service.",Ground Service,0
+2371,Female,Premium Economy,Yes,52.42,Delayed,3.2,Everything was perfect!,Boarding,1
+2372,Female,Premium Economy,Yes,51.99,On Time,7.9,Boarding was chaotic and unorganized.,Boarding,0
+2373,Female,Economy,No,19.03,Delayed,14.9,Boarding was chaotic and unorganized.,Ground Service,0
+2374,Male,Economy,Yes,53.87,On Time,11.8,Service was decent but food could be better.,Check-in,0
+2375,Male,Premium Economy,Yes,39.67,Cancelled,4.3,Everything was perfect!,Luggage Handling,1
+2376,Female,Economy,No,37.77,Cancelled,7.2,Service was decent but food could be better.,Check-in,0
+2377,Male,Business,Yes,46.46,Cancelled,9.9,"Seats were cramped, not comfortable.",Ground Service,0
+2378,Male,Premium Economy,No,42.67,Cancelled,4.0,Everything was perfect!,Luggage Handling,1
+2379,Female,Economy,Yes,25.96,On Time,11.3,Flight was delayed and no proper updates.,In-flight Service,0
+2380,Female,Business,No,54.15,Cancelled,5.8,"Nothing special, average service.",Ground Service,0
+2381,Male,Business,Yes,50.78,Cancelled,10.0,Flight was delayed and no proper updates.,Check-in,0
+2382,Male,Premium Economy,No,33.66,Delayed,11.6,Unhappy with how luggage was handled.,Customer Support,0
+2383,Male,Business,No,52.41,Cancelled,2.6,Service was decent but food could be better.,Luggage Handling,0
+2384,Male,Economy,Yes,52.45,On Time,3.3,Very courteous staff and smooth check-in process.,Ground Service,1
+2385,Male,Economy,Yes,32.04,On Time,6.6,"Seats were cramped, not comfortable.",Customer Support,0
+2386,Male,Business,No,49.49,Delayed,5.2,"Seats were cramped, not comfortable.",Luggage Handling,0
+2387,Male,Business,Yes,25.13,Delayed,11.4,Boarding was chaotic and unorganized.,In-flight Service,0
+2388,Female,Economy,Yes,61.19,On Time,11.5,Very courteous staff and smooth check-in process.,Ground Service,1
+2389,Female,Business,Yes,23.46,Delayed,8.5,Service was decent but food could be better.,Check-in,0
+2390,Female,Premium Economy,Yes,55.38,On Time,6.3,"Nothing special, average service.",Check-in,0
+2391,Female,Economy,No,24.12,On Time,10.9,Very courteous staff and smooth check-in process.,In-flight Service,1
+2392,Male,Economy,No,23.93,On Time,7.6,Flight was delayed and no proper updates.,Boarding,0
+2393,Female,Economy,No,23.53,Delayed,3.0,Boarding was chaotic and unorganized.,Luggage Handling,0
+2394,Male,Business,No,28.33,On Time,13.2,Flight was delayed and no proper updates.,In-flight Service,0
+2395,Male,Premium Economy,No,28.39,On Time,1.2,Very courteous staff and smooth check-in process.,Boarding,1
+2396,Male,Business,No,31.68,On Time,14.0,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2397,Female,Premium Economy,Yes,45.2,Cancelled,7.3,Boarding was chaotic and unorganized.,Customer Support,0
+2398,Female,Economy,No,28.49,Cancelled,10.5,Everything was perfect!,Check-in,1
+2399,Male,Economy,No,54.58,On Time,14.5,Boarding was chaotic and unorganized.,Ground Service,0
+2400,Male,Economy,No,33.36,On Time,10.6,Flight was delayed and no proper updates.,Ground Service,0
+2401,Male,Economy,No,20.05,Delayed,1.6,Unhappy with how luggage was handled.,Customer Support,0
+2402,Male,Premium Economy,Yes,43.81,Delayed,13.8,Everything was perfect!,Luggage Handling,1
+2403,Female,Business,No,28.8,On Time,9.9,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2404,Female,Premium Economy,Yes,66.52,Cancelled,14.4,Boarding was chaotic and unorganized.,Luggage Handling,0
+2405,Male,Economy,Yes,35.19,Cancelled,7.0,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2406,Male,Business,Yes,18.14,Delayed,13.9,Everything was perfect!,Customer Support,1
+2407,Female,Premium Economy,Yes,52.92,Cancelled,13.0,Really impressed with the cleanliness and hospitality.,Boarding,1
+2408,Female,Economy,Yes,65.16,On Time,5.7,Boarding was chaotic and unorganized.,Ground Service,0
+2409,Male,Premium Economy,No,61.43,Cancelled,4.7,Really impressed with the cleanliness and hospitality.,Boarding,1
+2410,Female,Economy,No,52.79,Cancelled,2.4,Unhappy with how luggage was handled.,Customer Support,0
+2411,Female,Economy,Yes,25.76,On Time,10.2,Service was decent but food could be better.,Boarding,0
+2412,Female,Premium Economy,Yes,22.68,Cancelled,6.5,"Nothing special, average service.",Check-in,0
+2413,Male,Premium Economy,Yes,44.61,On Time,11.8,Flight was delayed and no proper updates.,In-flight Service,0
+2414,Male,Economy,Yes,55.63,Delayed,11.5,Boarding was chaotic and unorganized.,Check-in,0
+2415,Male,Premium Economy,No,23.27,On Time,11.3,Flight was delayed and no proper updates.,Luggage Handling,0
+2416,Male,Premium Economy,No,31.31,Cancelled,9.2,Everything was perfect!,In-flight Service,1
+2417,Male,Economy,No,30.02,Cancelled,3.7,"Seats were cramped, not comfortable.",Ground Service,0
+2418,Female,Business,No,69.41,Cancelled,5.7,Everything was perfect!,In-flight Service,1
+2419,Male,Economy,No,33.39,On Time,10.7,Everything was perfect!,Ground Service,1
+2420,Male,Premium Economy,Yes,42.14,Cancelled,3.5,Flight was delayed and no proper updates.,Ground Service,0
+2421,Female,Premium Economy,Yes,23.19,On Time,8.7,Boarding was chaotic and unorganized.,Boarding,0
+2422,Male,Business,Yes,27.08,Cancelled,10.4,Flight was delayed and no proper updates.,Ground Service,0
+2423,Female,Premium Economy,Yes,20.05,Delayed,12.6,Boarding was chaotic and unorganized.,Luggage Handling,0
+2424,Male,Premium Economy,Yes,33.11,Cancelled,1.2,Service was decent but food could be better.,Customer Support,0
+2425,Male,Premium Economy,Yes,59.68,On Time,2.4,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2426,Female,Premium Economy,Yes,34.26,Delayed,2.5,Everything was perfect!,Luggage Handling,1
+2427,Male,Business,Yes,56.4,Cancelled,7.2,Service was decent but food could be better.,Ground Service,0
+2428,Female,Economy,No,22.94,Delayed,4.1,Service was decent but food could be better.,Ground Service,0
+2429,Female,Economy,No,57.43,Cancelled,5.0,Everything was perfect!,Customer Support,1
+2430,Male,Business,No,20.39,Delayed,3.7,Boarding was chaotic and unorganized.,Check-in,0
+2431,Male,Premium Economy,Yes,62.3,Cancelled,1.3,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2432,Male,Business,No,52.49,On Time,2.3,Everything was perfect!,In-flight Service,1
+2433,Female,Premium Economy,Yes,26.87,On Time,14.1,Unhappy with how luggage was handled.,In-flight Service,0
+2434,Female,Business,No,36.59,Delayed,10.2,Very courteous staff and smooth check-in process.,Ground Service,1
+2435,Male,Business,Yes,40.76,On Time,12.7,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2436,Male,Economy,Yes,50.33,Cancelled,14.3,Everything was perfect!,Boarding,1
+2437,Female,Economy,Yes,63.68,Delayed,9.9,Everything was perfect!,Luggage Handling,1
+2438,Male,Premium Economy,No,22.83,On Time,10.9,Boarding was chaotic and unorganized.,In-flight Service,0
+2439,Female,Business,Yes,60.38,Delayed,2.7,Very courteous staff and smooth check-in process.,In-flight Service,1
+2440,Female,Economy,Yes,27.51,On Time,13.0,Very courteous staff and smooth check-in process.,Ground Service,1
+2441,Female,Business,No,38.84,Cancelled,2.8,Everything was perfect!,Ground Service,1
+2442,Female,Premium Economy,Yes,68.04,Cancelled,10.2,Unhappy with how luggage was handled.,Customer Support,0
+2443,Female,Business,Yes,32.14,On Time,13.6,Everything was perfect!,Luggage Handling,1
+2444,Female,Premium Economy,No,38.06,On Time,8.9,Everything was perfect!,Check-in,1
+2445,Female,Business,No,62.23,Delayed,14.5,Everything was perfect!,Boarding,1
+2446,Female,Economy,No,59.59,On Time,13.5,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2447,Female,Business,Yes,51.74,On Time,10.7,"Nothing special, average service.",In-flight Service,0
+2448,Female,Premium Economy,Yes,59.44,On Time,4.5,Flight was delayed and no proper updates.,Customer Support,0
+2449,Female,Economy,No,23.88,On Time,7.5,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2450,Female,Economy,No,54.2,Cancelled,14.1,Everything was perfect!,In-flight Service,1
+2451,Female,Economy,Yes,21.05,On Time,9.9,Unhappy with how luggage was handled.,Luggage Handling,0
+2452,Male,Economy,No,67.01,On Time,13.9,Very courteous staff and smooth check-in process.,Check-in,1
+2453,Male,Business,Yes,26.29,Cancelled,4.9,"Fantastic experience, loved the in-flight entertainment!",Luggage Handling,1
+2454,Male,Premium Economy,No,39.63,Delayed,7.0,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2455,Female,Business,No,48.72,Delayed,13.6,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2456,Female,Premium Economy,No,59.72,Delayed,11.8,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2457,Female,Economy,Yes,53.28,On Time,5.5,Unhappy with how luggage was handled.,Ground Service,0
+2458,Female,Business,No,27.43,On Time,3.3,"Seats were cramped, not comfortable.",Luggage Handling,0
+2459,Male,Economy,No,37.75,On Time,2.0,Very courteous staff and smooth check-in process.,Boarding,1
+2460,Male,Premium Economy,Yes,36.65,Delayed,11.9,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2461,Male,Business,No,19.5,Cancelled,6.4,Flight was delayed and no proper updates.,Customer Support,0
+2462,Male,Business,Yes,53.59,Cancelled,5.7,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2463,Male,Economy,Yes,61.6,Delayed,1.8,"Seats were cramped, not comfortable.",Customer Support,0
+2464,Female,Economy,No,68.62,On Time,14.4,"Nothing special, average service.",Customer Support,0
+2465,Male,Premium Economy,Yes,24.79,Delayed,4.7,Boarding was chaotic and unorganized.,In-flight Service,0
+2466,Male,Business,No,65.86,Cancelled,7.2,Everything was perfect!,In-flight Service,1
+2467,Female,Business,No,23.87,Cancelled,7.9,Unhappy with how luggage was handled.,Customer Support,0
+2468,Female,Business,Yes,39.39,On Time,14.0,Everything was perfect!,Luggage Handling,1
+2469,Male,Premium Economy,No,20.39,On Time,9.5,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2470,Male,Business,No,31.6,Cancelled,3.5,Unhappy with how luggage was handled.,Check-in,0
+2471,Female,Premium Economy,Yes,34.34,Cancelled,7.9,Flight was delayed and no proper updates.,Check-in,0
+2472,Male,Premium Economy,No,54.64,Cancelled,3.0,Very courteous staff and smooth check-in process.,Boarding,1
+2473,Male,Business,No,53.25,Cancelled,11.8,Unhappy with how luggage was handled.,Customer Support,0
+2474,Male,Premium Economy,Yes,57.91,Delayed,4.1,Service was decent but food could be better.,Ground Service,0
+2475,Female,Business,Yes,47.99,On Time,10.0,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2476,Female,Business,Yes,47.38,Cancelled,13.8,Everything was perfect!,Boarding,1
+2477,Female,Economy,Yes,68.85,Delayed,11.0,Unhappy with how luggage was handled.,Ground Service,0
+2478,Female,Premium Economy,Yes,52.83,On Time,2.4,"Seats were cramped, not comfortable.",Boarding,0
+2479,Female,Business,Yes,35.59,Cancelled,2.0,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2480,Male,Premium Economy,Yes,45.2,Delayed,9.0,"Seats were cramped, not comfortable.",Ground Service,0
+2481,Male,Economy,No,54.43,Delayed,4.5,Everything was perfect!,In-flight Service,1
+2482,Male,Economy,Yes,22.95,On Time,7.2,Boarding was chaotic and unorganized.,Luggage Handling,0
+2483,Female,Premium Economy,No,52.41,Cancelled,13.6,Everything was perfect!,Customer Support,1
+2484,Female,Economy,Yes,30.93,On Time,3.1,Service was decent but food could be better.,Customer Support,0
+2485,Female,Premium Economy,Yes,35.98,On Time,10.0,Boarding was chaotic and unorganized.,Customer Support,0
+2486,Male,Premium Economy,No,53.17,Delayed,14.1,Boarding was chaotic and unorganized.,Customer Support,0
+2487,Female,Business,No,38.01,Cancelled,10.3,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2488,Female,Premium Economy,No,61.63,On Time,4.7,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2489,Female,Economy,Yes,47.03,Cancelled,10.8,Boarding was chaotic and unorganized.,Check-in,0
+2490,Male,Business,No,69.37,Cancelled,13.7,Boarding was chaotic and unorganized.,Boarding,0
+2491,Male,Premium Economy,No,20.84,Delayed,9.0,"Seats were cramped, not comfortable.",In-flight Service,0
+2492,Male,Business,No,51.46,On Time,8.2,Unhappy with how luggage was handled.,Boarding,0
+2493,Male,Economy,No,26.16,On Time,14.2,"Seats were cramped, not comfortable.",Luggage Handling,0
+2494,Male,Business,No,62.14,On Time,7.9,Very courteous staff and smooth check-in process.,Boarding,1
+2495,Female,Business,Yes,62.3,On Time,7.1,Very courteous staff and smooth check-in process.,Boarding,1
+2496,Male,Economy,No,63.21,Delayed,12.8,Service was decent but food could be better.,Check-in,0
+2497,Male,Premium Economy,Yes,21.89,On Time,11.9,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2498,Male,Premium Economy,No,43.57,Delayed,12.0,Flight was delayed and no proper updates.,Ground Service,0
+2499,Male,Business,No,30.53,Delayed,8.6,Boarding was chaotic and unorganized.,Check-in,0
+2500,Female,Business,No,68.45,On Time,1.0,"Seats were cramped, not comfortable.",Luggage Handling,0
+2501,Male,Business,No,20.62,On Time,14.4,Unhappy with how luggage was handled.,Luggage Handling,0
+2502,Male,Economy,Yes,29.58,Cancelled,12.5,Very courteous staff and smooth check-in process.,Check-in,1
+2503,Female,Premium Economy,No,51.45,Cancelled,7.7,Boarding was chaotic and unorganized.,Ground Service,0
+2504,Male,Business,Yes,38.97,On Time,8.9,Very courteous staff and smooth check-in process.,Check-in,1
+2505,Female,Economy,Yes,30.22,Cancelled,14.1,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2506,Male,Economy,Yes,41.87,Delayed,6.0,"Seats were cramped, not comfortable.",Boarding,0
+2507,Male,Business,No,59.67,Delayed,10.5,Unhappy with how luggage was handled.,In-flight Service,0
+2508,Male,Premium Economy,No,41.3,Delayed,6.6,"Seats were cramped, not comfortable.",Ground Service,0
+2509,Male,Premium Economy,Yes,62.54,Delayed,9.9,Everything was perfect!,Ground Service,1
+2510,Male,Premium Economy,No,41.25,Delayed,14.4,Unhappy with how luggage was handled.,Customer Support,0
+2511,Male,Premium Economy,Yes,24.17,Delayed,2.3,Service was decent but food could be better.,Check-in,0
+2512,Female,Business,No,43.86,Delayed,8.5,Very courteous staff and smooth check-in process.,Ground Service,1
+2513,Male,Business,Yes,51.98,On Time,14.5,"Seats were cramped, not comfortable.",Customer Support,0
+2514,Female,Premium Economy,No,23.34,Delayed,2.1,Everything was perfect!,Boarding,1
+2515,Female,Business,Yes,39.44,On Time,7.4,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2516,Male,Premium Economy,Yes,46.97,Delayed,11.7,Boarding was chaotic and unorganized.,Check-in,0
+2517,Male,Premium Economy,No,18.01,On Time,10.1,Service was decent but food could be better.,Boarding,0
+2518,Male,Premium Economy,No,22.73,Cancelled,3.5,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2519,Female,Premium Economy,No,49.42,On Time,1.6,Very courteous staff and smooth check-in process.,In-flight Service,1
+2520,Female,Economy,Yes,50.19,Cancelled,6.4,Very courteous staff and smooth check-in process.,Check-in,1
+2521,Male,Economy,No,33.84,On Time,3.7,"Seats were cramped, not comfortable.",Check-in,0
+2522,Female,Business,Yes,44.43,Delayed,10.7,Service was decent but food could be better.,Boarding,0
+2523,Female,Premium Economy,Yes,28.76,On Time,13.6,Service was decent but food could be better.,Check-in,0
+2524,Female,Premium Economy,No,52.92,Delayed,9.8,Really impressed with the cleanliness and hospitality.,Boarding,1
+2525,Female,Premium Economy,Yes,67.42,Cancelled,6.0,Boarding was chaotic and unorganized.,Check-in,0
+2526,Female,Economy,Yes,36.89,Delayed,2.2,Flight was delayed and no proper updates.,Check-in,0
+2527,Male,Economy,Yes,20.82,Delayed,9.9,Really impressed with the cleanliness and hospitality.,Check-in,1
+2528,Male,Premium Economy,Yes,29.59,Cancelled,11.3,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2529,Male,Business,No,41.63,On Time,3.0,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2530,Male,Economy,Yes,47.13,Delayed,3.7,"Seats were cramped, not comfortable.",Check-in,0
+2531,Female,Business,No,50.23,Delayed,11.1,Flight was delayed and no proper updates.,Ground Service,0
+2532,Female,Premium Economy,No,42.6,On Time,9.3,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2533,Male,Economy,Yes,52.17,Cancelled,7.8,Really impressed with the cleanliness and hospitality.,Boarding,1
+2534,Female,Business,Yes,55.23,On Time,1.9,Unhappy with how luggage was handled.,Check-in,0
+2535,Female,Premium Economy,No,23.93,Delayed,8.6,Unhappy with how luggage was handled.,In-flight Service,0
+2536,Male,Business,Yes,57.48,Cancelled,5.3,Unhappy with how luggage was handled.,Customer Support,0
+2537,Female,Premium Economy,Yes,29.53,On Time,8.5,Service was decent but food could be better.,Boarding,0
+2538,Female,Economy,No,35.75,Cancelled,12.7,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2539,Male,Business,Yes,61.15,On Time,7.3,"Fantastic experience, loved the in-flight entertainment!",Luggage Handling,1
+2540,Female,Business,Yes,68.15,Delayed,14.9,Flight was delayed and no proper updates.,Customer Support,0
+2541,Female,Economy,No,33.18,Cancelled,1.5,Service was decent but food could be better.,In-flight Service,0
+2542,Male,Premium Economy,Yes,45.14,Delayed,1.8,Boarding was chaotic and unorganized.,In-flight Service,0
+2543,Male,Economy,Yes,54.51,Delayed,12.0,Boarding was chaotic and unorganized.,In-flight Service,0
+2544,Male,Premium Economy,No,20.38,Cancelled,1.6,Boarding was chaotic and unorganized.,Ground Service,0
+2545,Female,Business,Yes,26.54,Cancelled,2.7,Boarding was chaotic and unorganized.,Ground Service,0
+2546,Female,Business,No,25.3,On Time,12.3,"Nothing special, average service.",Ground Service,0
+2547,Male,Business,Yes,55.28,On Time,10.3,Unhappy with how luggage was handled.,Ground Service,0
+2548,Female,Business,No,55.52,On Time,7.4,"Fantastic experience, loved the in-flight entertainment!",Luggage Handling,1
+2549,Male,Premium Economy,Yes,23.56,On Time,10.5,Service was decent but food could be better.,Luggage Handling,0
+2550,Female,Business,No,49.76,Cancelled,13.2,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2551,Female,Premium Economy,Yes,27.75,Cancelled,3.1,Flight was delayed and no proper updates.,Luggage Handling,0
+2552,Male,Economy,No,66.37,On Time,9.1,Flight was delayed and no proper updates.,Customer Support,0
+2553,Female,Economy,Yes,38.43,Cancelled,13.9,Flight was delayed and no proper updates.,Customer Support,0
+2554,Female,Economy,Yes,41.77,Delayed,1.5,Boarding was chaotic and unorganized.,Luggage Handling,0
+2555,Female,Business,No,58.63,On Time,3.0,"Nothing special, average service.",Luggage Handling,0
+2556,Male,Economy,Yes,55.27,Delayed,10.2,"Nothing special, average service.",Customer Support,0
+2557,Female,Premium Economy,Yes,23.6,On Time,7.6,Service was decent but food could be better.,In-flight Service,0
+2558,Female,Premium Economy,Yes,39.55,Delayed,13.9,"Nothing special, average service.",Ground Service,0
+2559,Male,Business,No,66.18,On Time,1.6,Boarding was chaotic and unorganized.,Luggage Handling,0
+2560,Male,Premium Economy,Yes,61.55,Cancelled,10.8,Everything was perfect!,Luggage Handling,1
+2561,Male,Premium Economy,No,48.62,Delayed,2.8,"Seats were cramped, not comfortable.",Check-in,0
+2562,Female,Economy,No,58.15,On Time,3.4,Flight was delayed and no proper updates.,Check-in,0
+2563,Male,Economy,Yes,41.43,Delayed,1.7,"Nothing special, average service.",Boarding,0
+2564,Female,Business,Yes,52.24,Delayed,5.3,"Seats were cramped, not comfortable.",Boarding,0
+2565,Female,Business,Yes,67.72,Delayed,12.1,"Seats were cramped, not comfortable.",Check-in,0
+2566,Male,Premium Economy,Yes,25.0,Delayed,7.4,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2567,Female,Business,No,43.94,Cancelled,3.4,"Seats were cramped, not comfortable.",Luggage Handling,0
+2568,Female,Business,Yes,45.58,On Time,9.3,Everything was perfect!,In-flight Service,1
+2569,Female,Economy,No,20.53,On Time,12.4,Everything was perfect!,Check-in,1
+2570,Female,Business,No,66.64,Delayed,2.5,Unhappy with how luggage was handled.,Ground Service,0
+2571,Male,Premium Economy,No,61.62,Delayed,8.0,Boarding was chaotic and unorganized.,Luggage Handling,0
+2572,Female,Premium Economy,Yes,43.11,On Time,12.2,Service was decent but food could be better.,Check-in,0
+2573,Female,Business,Yes,44.43,Cancelled,4.1,Everything was perfect!,Boarding,1
+2574,Male,Premium Economy,Yes,65.9,Delayed,12.3,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2575,Female,Business,Yes,27.21,Delayed,7.0,Unhappy with how luggage was handled.,Luggage Handling,0
+2576,Female,Business,No,48.08,On Time,12.4,Service was decent but food could be better.,Luggage Handling,0
+2577,Male,Premium Economy,Yes,55.99,Cancelled,14.8,Flight was delayed and no proper updates.,Check-in,0
+2578,Male,Economy,Yes,24.68,On Time,10.5,Everything was perfect!,Luggage Handling,1
+2579,Female,Business,No,38.15,Delayed,5.5,Flight was delayed and no proper updates.,Ground Service,0
+2580,Male,Premium Economy,Yes,49.23,Cancelled,14.7,Boarding was chaotic and unorganized.,Ground Service,0
+2581,Female,Business,No,63.9,Delayed,9.1,Unhappy with how luggage was handled.,Luggage Handling,0
+2582,Female,Economy,No,44.21,Cancelled,2.9,"Seats were cramped, not comfortable.",Luggage Handling,0
+2583,Male,Economy,Yes,38.0,Delayed,12.7,Everything was perfect!,Ground Service,1
+2584,Female,Economy,No,68.93,Delayed,12.1,Really impressed with the cleanliness and hospitality.,Check-in,1
+2585,Male,Economy,Yes,65.63,On Time,11.7,Unhappy with how luggage was handled.,Boarding,0
+2586,Male,Economy,No,57.64,Cancelled,9.3,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2587,Female,Business,Yes,32.23,Cancelled,5.7,"Seats were cramped, not comfortable.",Boarding,0
+2588,Male,Premium Economy,No,68.11,On Time,2.7,Service was decent but food could be better.,In-flight Service,0
+2589,Male,Business,Yes,68.47,Cancelled,3.0,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2590,Female,Business,No,41.55,Delayed,6.8,Service was decent but food could be better.,In-flight Service,0
+2591,Male,Business,No,24.94,Delayed,10.7,Unhappy with how luggage was handled.,Luggage Handling,0
+2592,Male,Economy,Yes,39.46,Cancelled,8.7,Very courteous staff and smooth check-in process.,Customer Support,1
+2593,Female,Premium Economy,Yes,54.4,Cancelled,7.1,Boarding was chaotic and unorganized.,Check-in,0
+2594,Male,Premium Economy,No,56.92,Delayed,14.0,Boarding was chaotic and unorganized.,Check-in,0
+2595,Female,Economy,No,33.54,Delayed,1.6,"Fantastic experience, loved the in-flight entertainment!",Luggage Handling,1
+2596,Female,Economy,Yes,54.48,Cancelled,2.4,Flight was delayed and no proper updates.,Check-in,0
+2597,Male,Premium Economy,Yes,62.76,On Time,12.9,Unhappy with how luggage was handled.,Luggage Handling,0
+2598,Male,Premium Economy,No,55.02,On Time,9.6,Very courteous staff and smooth check-in process.,Boarding,1
+2599,Female,Economy,No,66.65,On Time,11.9,Very courteous staff and smooth check-in process.,Ground Service,1
+2600,Male,Business,Yes,50.89,Cancelled,1.2,Everything was perfect!,In-flight Service,1
+2601,Female,Economy,No,28.45,On Time,7.8,Everything was perfect!,Luggage Handling,1
+2602,Male,Premium Economy,Yes,50.46,Cancelled,1.1,"Seats were cramped, not comfortable.",Customer Support,0
+2603,Female,Business,Yes,33.11,Cancelled,3.5,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2604,Female,Premium Economy,Yes,35.96,On Time,2.2,Everything was perfect!,Customer Support,1
+2605,Female,Business,Yes,52.96,Delayed,10.1,"Seats were cramped, not comfortable.",Ground Service,0
+2606,Male,Premium Economy,No,69.03,Delayed,13.4,"Seats were cramped, not comfortable.",Boarding,0
+2607,Female,Business,No,51.8,Cancelled,6.8,"Nothing special, average service.",Boarding,0
+2608,Male,Economy,No,67.83,On Time,12.3,Service was decent but food could be better.,Boarding,0
+2609,Male,Economy,No,44.2,On Time,11.8,Everything was perfect!,Customer Support,1
+2610,Female,Premium Economy,No,54.1,Delayed,10.7,"Nothing special, average service.",Customer Support,0
+2611,Male,Premium Economy,No,34.76,On Time,3.9,"Nothing special, average service.",Ground Service,0
+2612,Female,Premium Economy,No,24.0,Delayed,10.0,Boarding was chaotic and unorganized.,Check-in,0
+2613,Male,Business,Yes,36.32,Delayed,8.3,"Nothing special, average service.",Boarding,0
+2614,Female,Premium Economy,No,42.98,On Time,6.8,"Nothing special, average service.",Ground Service,0
+2615,Male,Premium Economy,No,47.67,Cancelled,14.1,Very courteous staff and smooth check-in process.,In-flight Service,1
+2616,Female,Premium Economy,No,52.69,On Time,9.5,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2617,Male,Premium Economy,Yes,39.71,Delayed,1.5,Unhappy with how luggage was handled.,Check-in,0
+2618,Female,Economy,Yes,56.89,Cancelled,3.5,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2619,Male,Business,No,61.75,Cancelled,8.0,Everything was perfect!,In-flight Service,1
+2620,Male,Premium Economy,No,32.87,Cancelled,14.3,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2621,Male,Business,Yes,62.06,Cancelled,9.8,Really impressed with the cleanliness and hospitality.,Boarding,1
+2622,Male,Business,Yes,60.03,On Time,12.0,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2623,Male,Economy,Yes,45.18,Cancelled,5.9,Flight was delayed and no proper updates.,Luggage Handling,0
+2624,Female,Economy,No,19.31,Cancelled,1.1,"Nothing special, average service.",Check-in,0
+2625,Female,Economy,No,25.56,Delayed,4.3,Boarding was chaotic and unorganized.,Ground Service,0
+2626,Male,Premium Economy,No,52.85,Cancelled,2.6,Everything was perfect!,In-flight Service,1
+2627,Male,Premium Economy,No,28.39,Delayed,8.4,"Seats were cramped, not comfortable.",Customer Support,0
+2628,Male,Economy,No,57.01,On Time,2.3,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2629,Female,Premium Economy,Yes,26.37,Cancelled,6.1,Everything was perfect!,Ground Service,1
+2630,Female,Economy,No,32.9,Delayed,11.7,Really impressed with the cleanliness and hospitality.,Boarding,1
+2631,Female,Business,No,31.03,On Time,8.6,Very courteous staff and smooth check-in process.,In-flight Service,1
+2632,Male,Business,Yes,61.65,On Time,4.1,Boarding was chaotic and unorganized.,In-flight Service,0
+2633,Male,Business,No,53.91,Cancelled,11.8,"Nothing special, average service.",Boarding,0
+2634,Male,Business,No,33.35,Delayed,10.2,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2635,Male,Economy,No,57.19,Cancelled,4.9,Boarding was chaotic and unorganized.,Customer Support,0
+2636,Male,Premium Economy,No,19.68,Delayed,3.7,Really impressed with the cleanliness and hospitality.,Check-in,1
+2637,Male,Premium Economy,Yes,60.33,Cancelled,12.2,Boarding was chaotic and unorganized.,In-flight Service,0
+2638,Female,Economy,Yes,23.33,Cancelled,10.6,Flight was delayed and no proper updates.,In-flight Service,0
+2639,Male,Premium Economy,Yes,63.14,On Time,14.6,Unhappy with how luggage was handled.,Boarding,0
+2640,Female,Economy,Yes,56.45,Delayed,7.6,Unhappy with how luggage was handled.,Check-in,0
+2641,Female,Economy,Yes,62.97,Delayed,3.5,Boarding was chaotic and unorganized.,In-flight Service,0
+2642,Female,Economy,No,56.61,On Time,10.4,"Nothing special, average service.",Customer Support,0
+2643,Male,Economy,No,47.19,Cancelled,1.6,Service was decent but food could be better.,Customer Support,0
+2644,Female,Premium Economy,No,30.35,Delayed,10.0,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2645,Male,Premium Economy,No,58.78,On Time,5.0,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2646,Female,Economy,Yes,59.54,On Time,7.1,Flight was delayed and no proper updates.,Check-in,0
+2647,Female,Business,No,32.96,Delayed,5.7,"Fantastic experience, loved the in-flight entertainment!",Luggage Handling,1
+2648,Male,Economy,Yes,52.55,On Time,12.3,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2649,Male,Economy,No,66.18,Delayed,11.6,Boarding was chaotic and unorganized.,Boarding,0
+2650,Male,Premium Economy,No,38.15,On Time,1.6,Flight was delayed and no proper updates.,Customer Support,0
+2651,Male,Economy,Yes,67.75,On Time,11.4,Flight was delayed and no proper updates.,Boarding,0
+2652,Female,Business,Yes,68.74,Cancelled,13.9,"Seats were cramped, not comfortable.",Boarding,0
+2653,Male,Premium Economy,No,34.26,Delayed,3.5,Boarding was chaotic and unorganized.,Luggage Handling,0
+2654,Female,Premium Economy,Yes,46.71,Delayed,12.0,Everything was perfect!,Ground Service,1
+2655,Male,Premium Economy,No,18.67,Delayed,7.8,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2656,Male,Economy,No,31.07,Delayed,2.6,Everything was perfect!,In-flight Service,1
+2657,Female,Economy,Yes,50.27,On Time,13.5,"Seats were cramped, not comfortable.",In-flight Service,0
+2658,Male,Business,No,58.61,On Time,11.1,Unhappy with how luggage was handled.,Check-in,0
+2659,Male,Premium Economy,No,63.25,Delayed,9.3,Service was decent but food could be better.,Luggage Handling,0
+2660,Female,Business,No,61.16,On Time,5.6,Unhappy with how luggage was handled.,Boarding,0
+2661,Male,Economy,Yes,65.4,On Time,3.8,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2662,Female,Premium Economy,No,54.64,Delayed,10.5,"Seats were cramped, not comfortable.",Customer Support,0
+2663,Male,Economy,No,51.68,On Time,5.6,Very courteous staff and smooth check-in process.,Check-in,1
+2664,Female,Premium Economy,No,57.27,Delayed,11.9,Very courteous staff and smooth check-in process.,Boarding,1
+2665,Female,Business,Yes,46.42,On Time,5.6,Everything was perfect!,Luggage Handling,1
+2666,Female,Premium Economy,Yes,49.38,Delayed,2.4,Flight was delayed and no proper updates.,Ground Service,0
+2667,Male,Premium Economy,Yes,58.36,Cancelled,11.3,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2668,Female,Premium Economy,Yes,68.14,On Time,13.2,"Seats were cramped, not comfortable.",Check-in,0
+2669,Male,Business,No,33.3,On Time,6.3,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2670,Male,Premium Economy,Yes,27.23,Delayed,4.1,Everything was perfect!,Luggage Handling,1
+2671,Female,Business,No,53.5,Delayed,7.6,"Nothing special, average service.",Ground Service,0
+2672,Female,Business,No,27.72,Delayed,7.8,Very courteous staff and smooth check-in process.,Boarding,1
+2673,Male,Business,Yes,27.04,On Time,13.5,Everything was perfect!,Luggage Handling,1
+2674,Female,Premium Economy,No,44.72,Delayed,3.0,Very courteous staff and smooth check-in process.,Ground Service,1
+2675,Female,Premium Economy,No,37.61,Cancelled,14.0,"Nothing special, average service.",Ground Service,0
+2676,Female,Premium Economy,Yes,40.28,On Time,7.4,Very courteous staff and smooth check-in process.,Customer Support,1
+2677,Female,Economy,No,46.94,On Time,6.4,Unhappy with how luggage was handled.,Luggage Handling,0
+2678,Male,Premium Economy,No,24.76,Cancelled,2.9,Everything was perfect!,Check-in,1
+2679,Male,Economy,No,48.37,On Time,11.1,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2680,Female,Premium Economy,No,31.26,Cancelled,9.8,Very courteous staff and smooth check-in process.,Ground Service,1
+2681,Male,Business,Yes,35.19,On Time,14.7,Very courteous staff and smooth check-in process.,Boarding,1
+2682,Male,Economy,Yes,54.9,Cancelled,3.8,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2683,Male,Business,No,26.05,Delayed,2.8,Flight was delayed and no proper updates.,Customer Support,0
+2684,Male,Business,Yes,25.99,Delayed,10.7,Very courteous staff and smooth check-in process.,Ground Service,1
+2685,Male,Economy,No,34.78,On Time,1.8,Service was decent but food could be better.,Customer Support,0
+2686,Female,Business,No,20.64,Delayed,2.9,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2687,Male,Premium Economy,Yes,66.48,On Time,12.9,"Seats were cramped, not comfortable.",Boarding,0
+2688,Male,Business,No,50.01,On Time,7.4,Very courteous staff and smooth check-in process.,Ground Service,1
+2689,Female,Premium Economy,Yes,52.42,Cancelled,3.4,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2690,Female,Business,Yes,43.51,Delayed,5.8,"Nothing special, average service.",Luggage Handling,0
+2691,Male,Business,No,47.78,Cancelled,13.4,Service was decent but food could be better.,Luggage Handling,0
+2692,Female,Economy,No,36.62,Delayed,9.5,Very courteous staff and smooth check-in process.,Ground Service,1
+2693,Female,Premium Economy,Yes,58.77,On Time,12.1,Boarding was chaotic and unorganized.,Check-in,0
+2694,Female,Premium Economy,Yes,34.53,On Time,9.9,Very courteous staff and smooth check-in process.,Customer Support,1
+2695,Female,Economy,Yes,29.44,Cancelled,9.6,"Seats were cramped, not comfortable.",Boarding,0
+2696,Female,Economy,Yes,27.56,On Time,3.4,"Seats were cramped, not comfortable.",Customer Support,0
+2697,Female,Economy,No,21.55,Delayed,14.6,Boarding was chaotic and unorganized.,In-flight Service,0
+2698,Male,Premium Economy,Yes,44.27,Cancelled,13.0,Everything was perfect!,In-flight Service,1
+2699,Female,Premium Economy,Yes,39.63,Cancelled,2.2,"Nothing special, average service.",Luggage Handling,0
+2700,Female,Premium Economy,Yes,45.93,On Time,13.0,Service was decent but food could be better.,Ground Service,0
+2701,Female,Premium Economy,No,22.78,On Time,7.8,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2702,Female,Economy,No,29.5,Cancelled,14.9,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2703,Male,Premium Economy,Yes,29.09,Cancelled,9.3,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2704,Male,Economy,No,35.26,Cancelled,12.7,"Seats were cramped, not comfortable.",Check-in,0
+2705,Male,Business,Yes,36.76,Cancelled,4.9,Very courteous staff and smooth check-in process.,In-flight Service,1
+2706,Female,Business,No,29.36,On Time,11.2,"Fantastic experience, loved the in-flight entertainment!",Luggage Handling,1
+2707,Female,Economy,Yes,57.14,Cancelled,11.3,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2708,Male,Premium Economy,Yes,45.59,On Time,4.5,"Nothing special, average service.",Check-in,0
+2709,Male,Business,Yes,69.82,Delayed,5.6,Service was decent but food could be better.,Luggage Handling,0
+2710,Female,Premium Economy,Yes,60.83,On Time,9.1,Service was decent but food could be better.,Customer Support,0
+2711,Female,Business,No,69.02,On Time,13.5,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2712,Female,Economy,No,18.46,Delayed,9.3,"Nothing special, average service.",In-flight Service,0
+2713,Female,Business,No,52.78,On Time,3.1,"Seats were cramped, not comfortable.",In-flight Service,0
+2714,Male,Premium Economy,No,41.17,Delayed,9.0,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2715,Male,Business,No,65.03,On Time,1.1,"Seats were cramped, not comfortable.",Ground Service,0
+2716,Male,Business,Yes,49.91,Delayed,14.7,"Seats were cramped, not comfortable.",Luggage Handling,0
+2717,Male,Premium Economy,Yes,50.3,Cancelled,1.6,Flight was delayed and no proper updates.,Check-in,0
+2718,Male,Business,Yes,67.86,On Time,7.6,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2719,Male,Business,No,53.49,Cancelled,11.8,Everything was perfect!,Boarding,1
+2720,Male,Business,Yes,34.69,On Time,1.5,Service was decent but food could be better.,Ground Service,0
+2721,Female,Economy,Yes,65.63,Delayed,8.4,"Nothing special, average service.",Customer Support,0
+2722,Female,Premium Economy,Yes,67.14,Delayed,7.7,Very courteous staff and smooth check-in process.,In-flight Service,1
+2723,Female,Business,No,38.07,On Time,12.2,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2724,Female,Business,No,46.09,On Time,12.5,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2725,Female,Business,Yes,32.71,On Time,7.3,Service was decent but food could be better.,Ground Service,0
+2726,Female,Premium Economy,No,65.39,Cancelled,4.4,Boarding was chaotic and unorganized.,In-flight Service,0
+2727,Male,Business,No,60.75,Delayed,8.8,Everything was perfect!,In-flight Service,1
+2728,Male,Premium Economy,No,37.5,On Time,1.2,"Seats were cramped, not comfortable.",Ground Service,0
+2729,Female,Economy,Yes,59.75,Delayed,11.2,"Seats were cramped, not comfortable.",Boarding,0
+2730,Male,Premium Economy,Yes,41.17,On Time,14.3,Unhappy with how luggage was handled.,Check-in,0
+2731,Female,Premium Economy,Yes,20.28,Delayed,2.9,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2732,Female,Business,No,64.71,On Time,5.1,Everything was perfect!,Luggage Handling,1
+2733,Male,Economy,Yes,28.01,Cancelled,10.1,"Seats were cramped, not comfortable.",Luggage Handling,0
+2734,Female,Business,No,44.72,Delayed,2.3,"Nothing special, average service.",In-flight Service,0
+2735,Female,Economy,Yes,67.31,Cancelled,7.7,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2736,Male,Business,Yes,26.7,On Time,5.3,"Seats were cramped, not comfortable.",Ground Service,0
+2737,Male,Economy,No,67.73,Cancelled,10.8,"Seats were cramped, not comfortable.",In-flight Service,0
+2738,Male,Economy,Yes,45.97,Delayed,13.0,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2739,Male,Economy,No,18.38,On Time,11.5,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2740,Female,Economy,Yes,21.4,Delayed,1.3,Everything was perfect!,Luggage Handling,1
+2741,Female,Business,No,52.86,Cancelled,7.4,Boarding was chaotic and unorganized.,Customer Support,0
+2742,Male,Premium Economy,Yes,58.23,On Time,11.8,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2743,Female,Business,No,62.98,On Time,13.2,Very courteous staff and smooth check-in process.,Boarding,1
+2744,Male,Business,Yes,40.06,Cancelled,6.7,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2745,Female,Business,No,23.4,Delayed,12.1,Boarding was chaotic and unorganized.,Customer Support,0
+2746,Female,Business,No,45.96,On Time,6.2,Flight was delayed and no proper updates.,Check-in,0
+2747,Female,Economy,Yes,54.54,Delayed,7.5,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2748,Male,Economy,Yes,68.76,Delayed,9.9,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2749,Male,Economy,Yes,58.31,Cancelled,13.0,Flight was delayed and no proper updates.,In-flight Service,0
+2750,Male,Economy,Yes,51.62,On Time,2.0,Flight was delayed and no proper updates.,Luggage Handling,0
+2751,Female,Premium Economy,Yes,66.87,On Time,13.5,"Seats were cramped, not comfortable.",Luggage Handling,0
+2752,Male,Premium Economy,No,56.84,Delayed,5.7,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2753,Female,Economy,No,26.0,Delayed,1.5,"Seats were cramped, not comfortable.",Check-in,0
+2754,Female,Economy,No,41.88,Delayed,7.0,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2755,Female,Business,Yes,35.25,On Time,4.8,Boarding was chaotic and unorganized.,In-flight Service,0
+2756,Female,Premium Economy,No,22.55,Delayed,14.2,Everything was perfect!,Check-in,1
+2757,Male,Premium Economy,No,20.82,Delayed,8.6,Service was decent but food could be better.,Customer Support,0
+2758,Male,Business,No,59.3,Delayed,12.1,Really impressed with the cleanliness and hospitality.,Check-in,1
+2759,Male,Business,Yes,47.02,On Time,12.0,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2760,Female,Premium Economy,No,47.9,Cancelled,2.1,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2761,Female,Business,Yes,29.84,Delayed,13.3,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2762,Female,Premium Economy,Yes,31.45,Cancelled,11.3,Unhappy with how luggage was handled.,Customer Support,0
+2763,Male,Economy,Yes,38.18,Delayed,1.8,"Seats were cramped, not comfortable.",Luggage Handling,0
+2764,Female,Economy,No,50.77,Cancelled,14.2,Flight was delayed and no proper updates.,Luggage Handling,0
+2765,Female,Premium Economy,No,40.52,Cancelled,10.4,Very courteous staff and smooth check-in process.,Ground Service,1
+2766,Male,Economy,Yes,18.88,Cancelled,13.4,Very courteous staff and smooth check-in process.,Ground Service,1
+2767,Female,Business,No,53.01,On Time,2.6,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2768,Male,Economy,No,45.81,Delayed,6.1,"Seats were cramped, not comfortable.",In-flight Service,0
+2769,Female,Economy,No,51.35,On Time,9.7,"Seats were cramped, not comfortable.",Ground Service,0
+2770,Female,Economy,No,50.15,On Time,6.1,Unhappy with how luggage was handled.,Boarding,0
+2771,Male,Business,Yes,57.31,Cancelled,3.5,Boarding was chaotic and unorganized.,Ground Service,0
+2772,Male,Economy,No,48.45,Delayed,8.8,Very courteous staff and smooth check-in process.,Ground Service,1
+2773,Female,Premium Economy,Yes,54.45,On Time,1.9,Everything was perfect!,Boarding,1
+2774,Female,Business,Yes,21.77,Delayed,10.9,"Nothing special, average service.",Customer Support,0
+2775,Male,Business,Yes,66.26,Cancelled,3.9,Service was decent but food could be better.,In-flight Service,0
+2776,Female,Economy,No,23.52,Delayed,14.7,"Nothing special, average service.",Ground Service,0
+2777,Female,Economy,Yes,58.92,Delayed,4.3,Everything was perfect!,Check-in,1
+2778,Male,Business,No,33.67,On Time,2.6,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2779,Male,Premium Economy,Yes,22.5,On Time,7.7,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2780,Female,Business,No,57.79,On Time,14.1,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2781,Male,Business,Yes,40.76,Cancelled,9.1,Unhappy with how luggage was handled.,Check-in,0
+2782,Female,Business,Yes,38.55,Cancelled,14.4,Boarding was chaotic and unorganized.,Check-in,0
+2783,Female,Business,Yes,52.36,On Time,3.9,Everything was perfect!,In-flight Service,1
+2784,Male,Economy,No,42.65,Delayed,11.4,Unhappy with how luggage was handled.,Luggage Handling,0
+2785,Female,Economy,No,45.74,On Time,4.2,"Nothing special, average service.",Boarding,0
+2786,Female,Business,No,25.09,On Time,5.9,"Nothing special, average service.",Check-in,0
+2787,Male,Premium Economy,Yes,38.33,Delayed,4.7,Service was decent but food could be better.,In-flight Service,0
+2788,Female,Premium Economy,Yes,59.47,Cancelled,10.5,Very courteous staff and smooth check-in process.,Ground Service,1
+2789,Male,Economy,Yes,46.38,Cancelled,4.9,Very courteous staff and smooth check-in process.,Ground Service,1
+2790,Female,Premium Economy,Yes,67.93,On Time,1.9,"Nothing special, average service.",Boarding,0
+2791,Female,Economy,No,25.49,Cancelled,5.8,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2792,Female,Premium Economy,No,53.22,Delayed,7.8,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2793,Female,Business,Yes,65.54,On Time,8.4,Everything was perfect!,Boarding,1
+2794,Male,Business,Yes,59.34,Cancelled,2.7,Very courteous staff and smooth check-in process.,Customer Support,1
+2795,Female,Economy,Yes,55.92,Cancelled,10.9,Unhappy with how luggage was handled.,Customer Support,0
+2796,Male,Premium Economy,Yes,37.4,On Time,10.5,"Nothing special, average service.",Ground Service,0
+2797,Female,Premium Economy,No,67.37,Cancelled,8.5,Very courteous staff and smooth check-in process.,Customer Support,1
+2798,Female,Economy,No,46.78,Cancelled,5.1,Flight was delayed and no proper updates.,Boarding,0
+2799,Female,Business,Yes,46.86,On Time,9.7,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2800,Male,Premium Economy,Yes,24.41,Delayed,12.2,Everything was perfect!,Luggage Handling,1
+2801,Male,Premium Economy,Yes,18.26,Cancelled,14.2,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2802,Female,Economy,Yes,49.03,On Time,12.3,Very courteous staff and smooth check-in process.,Customer Support,1
+2803,Female,Premium Economy,Yes,45.93,On Time,14.2,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2804,Male,Business,No,67.24,Cancelled,1.9,Boarding was chaotic and unorganized.,Ground Service,0
+2805,Male,Economy,No,33.84,Cancelled,13.5,Flight was delayed and no proper updates.,Boarding,0
+2806,Female,Business,No,56.91,Cancelled,7.4,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2807,Male,Economy,Yes,64.98,Cancelled,2.1,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2808,Female,Premium Economy,No,35.88,Delayed,13.6,Service was decent but food could be better.,Customer Support,0
+2809,Female,Business,Yes,39.46,Delayed,5.0,"Seats were cramped, not comfortable.",Check-in,0
+2810,Male,Premium Economy,Yes,51.59,Delayed,14.4,Flight was delayed and no proper updates.,Check-in,0
+2811,Male,Business,Yes,44.65,Cancelled,2.5,Service was decent but food could be better.,Boarding,0
+2812,Male,Business,Yes,26.37,Cancelled,4.9,Service was decent but food could be better.,Boarding,0
+2813,Female,Premium Economy,No,29.48,Cancelled,10.8,Boarding was chaotic and unorganized.,Check-in,0
+2814,Female,Economy,No,61.41,On Time,7.9,Flight was delayed and no proper updates.,Boarding,0
+2815,Male,Business,Yes,28.1,Cancelled,13.2,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2816,Female,Economy,No,27.43,On Time,8.3,Everything was perfect!,Boarding,1
+2817,Male,Premium Economy,Yes,59.58,On Time,9.8,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2818,Female,Business,Yes,62.32,Cancelled,5.1,"Seats were cramped, not comfortable.",Ground Service,0
+2819,Female,Economy,Yes,62.27,Delayed,14.6,Service was decent but food could be better.,Boarding,0
+2820,Female,Premium Economy,No,66.48,On Time,8.6,Unhappy with how luggage was handled.,Customer Support,0
+2821,Male,Premium Economy,Yes,69.7,Delayed,2.8,Boarding was chaotic and unorganized.,Ground Service,0
+2822,Female,Business,Yes,41.99,On Time,5.9,Everything was perfect!,Luggage Handling,1
+2823,Female,Business,No,46.58,On Time,7.2,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2824,Female,Business,Yes,33.11,Cancelled,10.0,Unhappy with how luggage was handled.,Boarding,0
+2825,Male,Economy,Yes,21.5,Delayed,5.1,Unhappy with how luggage was handled.,In-flight Service,0
+2826,Male,Business,No,23.11,Cancelled,1.9,Unhappy with how luggage was handled.,Check-in,0
+2827,Female,Economy,No,55.73,Delayed,13.2,Everything was perfect!,Ground Service,1
+2828,Female,Business,Yes,43.33,Delayed,4.3,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2829,Female,Business,No,35.2,Delayed,14.3,Service was decent but food could be better.,Ground Service,0
+2830,Female,Premium Economy,Yes,24.67,Cancelled,10.0,Unhappy with how luggage was handled.,In-flight Service,0
+2831,Male,Premium Economy,No,52.08,Delayed,6.8,Really impressed with the cleanliness and hospitality.,Customer Support,1
+2832,Female,Business,No,23.2,Cancelled,5.8,"Seats were cramped, not comfortable.",Boarding,0
+2833,Male,Business,No,50.21,Delayed,10.0,"Seats were cramped, not comfortable.",Customer Support,0
+2834,Female,Business,Yes,64.81,On Time,5.6,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2835,Male,Business,No,34.52,On Time,9.3,"Seats were cramped, not comfortable.",Ground Service,0
+2836,Female,Economy,Yes,41.43,On Time,10.8,Very courteous staff and smooth check-in process.,Ground Service,1
+2837,Male,Premium Economy,Yes,50.05,Cancelled,12.8,Boarding was chaotic and unorganized.,Boarding,0
+2838,Male,Economy,No,33.9,On Time,7.2,Flight was delayed and no proper updates.,Luggage Handling,0
+2839,Female,Business,Yes,48.38,On Time,5.3,Service was decent but food could be better.,Boarding,0
+2840,Male,Economy,Yes,47.41,Delayed,2.8,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2841,Female,Business,No,36.95,Cancelled,12.1,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2842,Female,Premium Economy,No,34.45,Cancelled,3.4,Everything was perfect!,Ground Service,1
+2843,Female,Premium Economy,Yes,40.27,Cancelled,4.6,Flight was delayed and no proper updates.,In-flight Service,0
+2844,Female,Business,Yes,18.25,On Time,7.8,"Seats were cramped, not comfortable.",Customer Support,0
+2845,Female,Business,Yes,30.8,Cancelled,14.6,Everything was perfect!,Ground Service,1
+2846,Male,Premium Economy,Yes,29.52,Cancelled,11.8,Everything was perfect!,Ground Service,1
+2847,Male,Economy,No,56.47,Cancelled,1.7,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2848,Female,Economy,No,40.68,Delayed,5.9,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2849,Female,Economy,Yes,61.69,On Time,7.4,Very courteous staff and smooth check-in process.,Boarding,1
+2850,Female,Premium Economy,Yes,24.98,Delayed,3.3,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2851,Male,Economy,No,56.11,On Time,13.9,"Seats were cramped, not comfortable.",Luggage Handling,0
+2852,Male,Economy,Yes,63.65,Delayed,11.0,Service was decent but food could be better.,Luggage Handling,0
+2853,Female,Business,Yes,42.07,On Time,5.0,Service was decent but food could be better.,Boarding,0
+2854,Female,Business,Yes,36.65,Cancelled,14.6,Flight was delayed and no proper updates.,Check-in,0
+2855,Female,Premium Economy,Yes,33.88,Delayed,12.8,Flight was delayed and no proper updates.,Ground Service,0
+2856,Female,Business,No,46.69,On Time,10.7,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2857,Male,Economy,Yes,27.14,Delayed,10.3,Everything was perfect!,In-flight Service,1
+2858,Male,Business,No,49.54,Cancelled,3.1,Service was decent but food could be better.,Customer Support,0
+2859,Female,Business,Yes,61.77,Delayed,4.3,"Seats were cramped, not comfortable.",In-flight Service,0
+2860,Female,Business,Yes,62.65,Delayed,1.6,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2861,Male,Premium Economy,Yes,25.28,Cancelled,5.4,"Nothing special, average service.",Boarding,0
+2862,Female,Economy,No,46.01,Cancelled,2.8,Really impressed with the cleanliness and hospitality.,In-flight Service,1
+2863,Female,Business,Yes,31.69,Delayed,4.6,Unhappy with how luggage was handled.,Ground Service,0
+2864,Male,Economy,Yes,64.09,Delayed,3.6,Boarding was chaotic and unorganized.,In-flight Service,0
+2865,Female,Economy,Yes,21.98,Cancelled,8.9,Very courteous staff and smooth check-in process.,Boarding,1
+2866,Male,Economy,Yes,21.92,On Time,1.5,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2867,Male,Economy,No,18.97,Cancelled,5.4,Everything was perfect!,Customer Support,1
+2868,Male,Economy,No,44.37,Delayed,5.8,"Seats were cramped, not comfortable.",Ground Service,0
+2869,Female,Economy,No,19.62,Delayed,6.2,"Seats were cramped, not comfortable.",In-flight Service,0
+2870,Female,Business,No,48.26,Cancelled,8.6,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2871,Female,Business,No,39.07,Delayed,3.3,Unhappy with how luggage was handled.,Ground Service,0
+2872,Male,Economy,No,48.68,Delayed,5.2,Boarding was chaotic and unorganized.,Luggage Handling,0
+2873,Male,Business,No,65.13,Delayed,13.9,Everything was perfect!,Ground Service,1
+2874,Female,Economy,Yes,46.68,On Time,6.7,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2875,Female,Premium Economy,No,46.26,On Time,8.0,"Seats were cramped, not comfortable.",Ground Service,0
+2876,Male,Business,Yes,69.93,Delayed,3.0,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2877,Female,Economy,No,42.55,On Time,7.4,Everything was perfect!,Check-in,1
+2878,Male,Economy,No,58.31,Cancelled,5.5,Boarding was chaotic and unorganized.,Boarding,0
+2879,Male,Economy,Yes,37.02,Delayed,1.1,"Seats were cramped, not comfortable.",Ground Service,0
+2880,Male,Premium Economy,Yes,29.61,Delayed,11.3,Service was decent but food could be better.,Luggage Handling,0
+2881,Male,Premium Economy,Yes,58.15,Delayed,14.7,Very courteous staff and smooth check-in process.,In-flight Service,1
+2882,Male,Business,Yes,56.13,On Time,5.6,"Nothing special, average service.",Customer Support,0
+2883,Female,Business,No,33.13,Delayed,10.9,Unhappy with how luggage was handled.,Check-in,0
+2884,Female,Economy,No,42.16,On Time,7.6,"Fantastic experience, loved the in-flight entertainment!",Ground Service,1
+2885,Female,Economy,Yes,44.54,Cancelled,5.1,Really impressed with the cleanliness and hospitality.,Check-in,1
+2886,Male,Business,No,38.63,Delayed,14.2,Flight was delayed and no proper updates.,Boarding,0
+2887,Male,Economy,No,44.11,Cancelled,14.7,"Seats were cramped, not comfortable.",Luggage Handling,0
+2888,Male,Premium Economy,No,52.46,On Time,9.0,Everything was perfect!,Luggage Handling,1
+2889,Female,Economy,No,62.1,Cancelled,3.1,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2890,Female,Economy,No,59.94,Cancelled,8.9,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2891,Male,Economy,Yes,49.93,Cancelled,13.7,Unhappy with how luggage was handled.,In-flight Service,0
+2892,Male,Business,No,26.62,On Time,7.2,Service was decent but food could be better.,Check-in,0
+2893,Female,Premium Economy,Yes,44.74,Delayed,10.6,Everything was perfect!,Customer Support,1
+2894,Male,Premium Economy,No,41.2,Delayed,11.2,Flight was delayed and no proper updates.,Luggage Handling,0
+2895,Male,Premium Economy,No,27.32,On Time,13.6,"Nothing special, average service.",Customer Support,0
+2896,Male,Premium Economy,Yes,67.33,Delayed,3.0,"Fantastic experience, loved the in-flight entertainment!",Boarding,1
+2897,Male,Premium Economy,No,52.29,Cancelled,8.7,Flight was delayed and no proper updates.,In-flight Service,0
+2898,Female,Premium Economy,Yes,68.32,On Time,5.3,Unhappy with how luggage was handled.,Luggage Handling,0
+2899,Female,Economy,No,56.27,Delayed,6.6,Flight was delayed and no proper updates.,Ground Service,0
+2900,Female,Economy,No,43.14,On Time,12.8,Really impressed with the cleanliness and hospitality.,Check-in,1
+2901,Male,Business,Yes,36.66,Cancelled,7.2,"Seats were cramped, not comfortable.",Check-in,0
+2902,Female,Business,No,29.38,Cancelled,2.3,Unhappy with how luggage was handled.,Check-in,0
+2903,Female,Economy,No,43.36,Cancelled,1.8,Very courteous staff and smooth check-in process.,Boarding,1
+2904,Male,Premium Economy,Yes,21.27,Cancelled,10.0,Service was decent but food could be better.,In-flight Service,0
+2905,Female,Business,No,37.21,On Time,9.2,Everything was perfect!,In-flight Service,1
+2906,Female,Economy,No,20.23,On Time,4.1,Very courteous staff and smooth check-in process.,Check-in,1
+2907,Female,Premium Economy,No,28.75,Delayed,14.1,Very courteous staff and smooth check-in process.,In-flight Service,1
+2908,Male,Economy,No,65.2,Delayed,4.9,Very courteous staff and smooth check-in process.,Ground Service,1
+2909,Female,Premium Economy,Yes,36.79,Delayed,1.3,Everything was perfect!,In-flight Service,1
+2910,Male,Premium Economy,No,42.42,Delayed,8.5,Unhappy with how luggage was handled.,Boarding,0
+2911,Female,Premium Economy,No,41.64,Cancelled,7.2,Flight was delayed and no proper updates.,Luggage Handling,0
+2912,Male,Economy,No,20.41,Delayed,10.4,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2913,Female,Economy,No,68.99,Cancelled,2.2,"Seats were cramped, not comfortable.",Customer Support,0
+2914,Female,Premium Economy,Yes,34.85,Delayed,8.2,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2915,Male,Economy,No,54.59,Delayed,3.7,Everything was perfect!,Customer Support,1
+2916,Female,Economy,No,45.11,Cancelled,5.4,Boarding was chaotic and unorganized.,Check-in,0
+2917,Female,Premium Economy,Yes,61.14,Cancelled,9.5,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2918,Female,Economy,Yes,61.41,Delayed,14.2,Flight was delayed and no proper updates.,Boarding,0
+2919,Female,Premium Economy,Yes,31.69,Delayed,13.7,Boarding was chaotic and unorganized.,Boarding,0
+2920,Female,Business,Yes,46.31,On Time,6.1,"Seats were cramped, not comfortable.",Check-in,0
+2921,Female,Premium Economy,Yes,27.04,Cancelled,3.1,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2922,Female,Premium Economy,Yes,51.99,On Time,13.0,Unhappy with how luggage was handled.,Customer Support,0
+2923,Female,Premium Economy,No,37.0,Cancelled,6.2,Really impressed with the cleanliness and hospitality.,Check-in,1
+2924,Female,Economy,Yes,51.97,Delayed,6.2,Really impressed with the cleanliness and hospitality.,Boarding,1
+2925,Male,Premium Economy,No,61.44,On Time,5.0,Boarding was chaotic and unorganized.,Ground Service,0
+2926,Male,Business,Yes,44.87,Cancelled,5.9,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2927,Female,Business,Yes,37.57,Delayed,14.7,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2928,Female,Premium Economy,No,65.18,Delayed,13.2,Unhappy with how luggage was handled.,Customer Support,0
+2929,Male,Business,No,44.85,On Time,2.2,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2930,Male,Business,No,36.35,On Time,11.2,"Nothing special, average service.",Boarding,0
+2931,Female,Premium Economy,Yes,63.12,On Time,7.2,Service was decent but food could be better.,Check-in,0
+2932,Male,Economy,Yes,43.32,Delayed,14.9,Very courteous staff and smooth check-in process.,Luggage Handling,1
+2933,Male,Premium Economy,No,43.07,On Time,12.3,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2934,Female,Economy,No,49.42,Delayed,5.0,"Nothing special, average service.",Boarding,0
+2935,Female,Business,No,44.1,Cancelled,12.3,Flight was delayed and no proper updates.,Customer Support,0
+2936,Female,Business,No,25.23,Delayed,14.6,Unhappy with how luggage was handled.,Luggage Handling,0
+2937,Female,Economy,No,26.61,On Time,6.9,Boarding was chaotic and unorganized.,Ground Service,0
+2938,Female,Business,No,22.01,Cancelled,13.6,"Fantastic experience, loved the in-flight entertainment!",In-flight Service,1
+2939,Male,Economy,Yes,51.46,On Time,3.0,Service was decent but food could be better.,Luggage Handling,0
+2940,Female,Premium Economy,No,29.0,Delayed,9.2,"Nothing special, average service.",Boarding,0
+2941,Male,Business,Yes,27.72,Delayed,2.2,Boarding was chaotic and unorganized.,Luggage Handling,0
+2942,Female,Business,Yes,36.84,Delayed,3.9,Unhappy with how luggage was handled.,Luggage Handling,0
+2943,Female,Business,Yes,55.3,On Time,7.6,Very courteous staff and smooth check-in process.,Boarding,1
+2944,Male,Premium Economy,Yes,24.15,Delayed,13.1,Service was decent but food could be better.,Ground Service,0
+2945,Male,Premium Economy,Yes,29.98,On Time,14.8,"Nothing special, average service.",Check-in,0
+2946,Female,Business,No,60.18,Delayed,1.9,Unhappy with how luggage was handled.,Luggage Handling,0
+2947,Male,Premium Economy,No,55.45,Delayed,14.4,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2948,Female,Business,No,43.04,Delayed,11.6,Really impressed with the cleanliness and hospitality.,Boarding,1
+2949,Female,Business,No,42.9,Cancelled,2.2,Everything was perfect!,Customer Support,1
+2950,Female,Premium Economy,Yes,28.96,On Time,6.7,Unhappy with how luggage was handled.,Customer Support,0
+2951,Female,Business,No,26.38,On Time,13.8,Very courteous staff and smooth check-in process.,In-flight Service,1
+2952,Female,Premium Economy,No,61.33,Delayed,6.8,"Seats were cramped, not comfortable.",Luggage Handling,0
+2953,Female,Premium Economy,No,19.17,On Time,8.8,Flight was delayed and no proper updates.,Boarding,0
+2954,Male,Premium Economy,No,20.24,Cancelled,10.9,"Fantastic experience, loved the in-flight entertainment!",Customer Support,1
+2955,Female,Premium Economy,Yes,47.82,Cancelled,11.6,Flight was delayed and no proper updates.,Check-in,0
+2956,Male,Economy,No,26.38,Cancelled,2.9,Unhappy with how luggage was handled.,Boarding,0
+2957,Female,Premium Economy,Yes,50.74,On Time,3.6,Unhappy with how luggage was handled.,Customer Support,0
+2958,Male,Premium Economy,Yes,20.04,Cancelled,6.3,"Seats were cramped, not comfortable.",Boarding,0
+2959,Female,Business,No,47.76,On Time,8.8,Boarding was chaotic and unorganized.,Ground Service,0
+2960,Female,Economy,Yes,20.91,Delayed,1.6,Service was decent but food could be better.,Check-in,0
+2961,Female,Economy,No,31.43,On Time,12.6,"Fantastic experience, loved the in-flight entertainment!",Luggage Handling,1
+2962,Female,Economy,No,27.36,Cancelled,12.7,"Nothing special, average service.",Ground Service,0
+2963,Female,Economy,No,67.83,Delayed,5.3,"Nothing special, average service.",Ground Service,0
+2964,Male,Business,Yes,49.17,Cancelled,8.8,Unhappy with how luggage was handled.,Customer Support,0
+2965,Male,Premium Economy,No,47.31,Delayed,7.5,"Seats were cramped, not comfortable.",Boarding,0
+2966,Male,Premium Economy,No,18.97,Cancelled,1.4,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2967,Female,Business,Yes,55.42,On Time,1.0,Unhappy with how luggage was handled.,Ground Service,0
+2968,Female,Economy,No,52.41,Delayed,4.7,"Nothing special, average service.",Check-in,0
+2969,Female,Premium Economy,No,32.74,Delayed,14.4,Service was decent but food could be better.,Customer Support,0
+2970,Male,Economy,No,22.46,Cancelled,12.7,Unhappy with how luggage was handled.,Luggage Handling,0
+2971,Male,Business,Yes,41.36,On Time,7.6,Unhappy with how luggage was handled.,In-flight Service,0
+2972,Female,Business,No,69.62,On Time,10.2,Boarding was chaotic and unorganized.,Boarding,0
+2973,Female,Economy,No,63.1,Delayed,13.5,"Seats were cramped, not comfortable.",Luggage Handling,0
+2974,Male,Business,Yes,26.87,Delayed,6.8,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2975,Male,Premium Economy,No,61.18,On Time,7.9,Flight was delayed and no proper updates.,In-flight Service,0
+2976,Male,Business,Yes,49.24,Delayed,10.6,Really impressed with the cleanliness and hospitality.,Luggage Handling,1
+2977,Female,Business,No,59.32,Delayed,4.4,Flight was delayed and no proper updates.,Customer Support,0
+2978,Male,Economy,Yes,60.66,On Time,2.7,"Fantastic experience, loved the in-flight entertainment!",Check-in,1
+2979,Male,Economy,No,27.46,On Time,4.9,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2980,Male,Economy,Yes,52.3,Cancelled,14.9,"Seats were cramped, not comfortable.",Customer Support,0
+2981,Female,Economy,No,31.76,On Time,1.9,Service was decent but food could be better.,Luggage Handling,0
+2982,Male,Premium Economy,No,55.66,Delayed,11.4,Unhappy with how luggage was handled.,In-flight Service,0
+2983,Male,Business,No,35.82,Delayed,9.1,Very courteous staff and smooth check-in process.,In-flight Service,1
+2984,Female,Economy,Yes,41.58,Cancelled,8.9,Boarding was chaotic and unorganized.,Luggage Handling,0
+2985,Female,Business,Yes,48.71,Delayed,13.2,Everything was perfect!,Boarding,1
+2986,Female,Premium Economy,Yes,29.95,On Time,9.8,Boarding was chaotic and unorganized.,Boarding,0
+2987,Male,Economy,Yes,38.04,Cancelled,7.7,"Nothing special, average service.",Luggage Handling,0
+2988,Female,Economy,Yes,23.65,Delayed,10.7,Everything was perfect!,Ground Service,1
+2989,Male,Business,Yes,28.52,Cancelled,2.7,Really impressed with the cleanliness and hospitality.,Check-in,1
+2990,Male,Economy,Yes,62.7,Delayed,8.2,"Nothing special, average service.",Luggage Handling,0
+2991,Male,Premium Economy,Yes,44.23,Cancelled,9.1,"Nothing special, average service.",Ground Service,0
+2992,Male,Economy,No,39.83,Cancelled,12.8,Flight was delayed and no proper updates.,Ground Service,0
+2993,Male,Business,No,25.78,Cancelled,3.3,Service was decent but food could be better.,Customer Support,0
+2994,Female,Business,No,23.01,On Time,1.8,Unhappy with how luggage was handled.,Check-in,0
+2995,Male,Economy,Yes,42.75,Delayed,5.5,Unhappy with how luggage was handled.,Luggage Handling,0
+2996,Male,Premium Economy,Yes,49.97,On Time,13.3,Really impressed with the cleanliness and hospitality.,Ground Service,1
+2997,Male,Business,No,20.03,Delayed,2.9,Unhappy with how luggage was handled.,In-flight Service,0
+2998,Female,Economy,Yes,58.76,Cancelled,3.3,"Nothing special, average service.",Ground Service,0
+2999,Female,Economy,Yes,44.17,Delayed,4.8,Service was decent but food could be better.,Luggage Handling,0
